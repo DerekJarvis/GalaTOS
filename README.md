@@ -1,2 +1,2 @@
 # GalaTOS
-A public repository for tracking changes to Gala Games' TOS
+A public repository for tracking changes to Gala's TOS
