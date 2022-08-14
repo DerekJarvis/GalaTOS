@@ -56,21 +56,12 @@ Purchases. The Platform may provide Users with the ability to purchase Platform 
 
 5.3 Communications. We may provide disclosures and notices required by law and other information about your Platform account to you electronically by posting it on our website, pushing notifications through the Platform, or emailing it to the email address listed in your Platform account or that you otherwise provided to GALA. Electronic disclosures and notices have the same meaning and effect as if we had provided you with paper copies. Such disclosures and notices are considered received by you within twenty-four (24) hours of the time posted to our website or within twenty-four (24) hours of the time emailed to you unless we receive notice that the email was not delivered. If you wish to withdraw your consent to receiving electronic communications, contact support. If we are unable to support your request, you may need to terminate your Platform account.
 
-6. AFFILIATE AGREEMENT
 
-6.1 Gala Film will be offering a commission paid weekly, to an individual using a unique referral code (herein "Referral Fee").  
+6. ADDITIONAL REWARDS. Gala Film may, from time to time allow User to receive a reward, in the form of Gala Reward, NFT, or otherwise, based on actions taken by the User, whether it be by referral or other program in place at the time (“Additional Rewards”). Such Additional Rewards may take the shape of an internal bonus, affiliate code, or agreement with an affiliate that requires the User to accept the affiliate terms and conditions to participate. Gala Film shall, in its sole discretion, and with no notice, be permitted to choose if, how and when any referral bonus may be offered to the User. User understands that GALA makes no representations or warrants regarding the Additional Rewards. Notwithstanding or limiting the foregoing, GALA further makes no representations or warrants surrounding the operation of any GALA Services or that said GALA Services/Additional Rewards will be error-free or uninterrupted. User accepts the sole responsibility for taking any and all actions to obtain any Additional Rewards, and holds GALA harmless for any opportunity cost or losses that occur as a result of the non-receipt of anticipated Additional Rewards, monetary or otherwise.
 
-By sharing your unique referral code, you understand and agree to the following:
+6.1 By sharing your unique referral code, you understand and agree to provide an FTC disclosure “clearly and conspicuously” where legally required.
 
-(a) You will be required to provide sufficient KYC (know your customer) detail to receive payment and allow Gala Film to file any and all tax forms needed or otherwise;
-
-(b) You agree and understand that Gala Film may, at its sole discretion, withhold any amount from the Referral Fee for tax purposes or otherwise;
-
-(c) You agree to provide Gala Film with any information that Gala Film may request from you at any time, and/or;
-
-(d) You agree to provide an FTC disclosure "clearly and conspicuously" where legally required.  
-
-If any of the above conditions are not met, or for any other reason at Gala Film's discretion (including based on your location), Gala Film may choose to withhold any and all Referral Fee.
+6.2 User acknowledges and agrees that Additional Rewards ARE NOT being sold as an investment by or of GALA. THE USER UNDERSTANDS THAT ANY REPRESENTATIONS MADE BY THE USER AT ANY TIME THAT ANY OF THE GALA SERVICES ARE AN INVESTMENT IN GALA (OR OTHERWISE, INCLUDING, BUT NOT LIMITED TO, IN GENERAL) TO OTHERS IN A DIRECT ATTEMPT TO MARKET GALA SERVICES IN COORDINATION WITH SUPPLYING USER’S REFERRAL LINK IS A DIRECT BREACH OF THE TERMS & CONDITIONS. A determination of same will be made at the sole discretion of GALA.
 
 7. TERMINATION
 
