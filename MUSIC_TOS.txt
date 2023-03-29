@@ -16,7 +16,7 @@ Account means the user account created upon registration on the Platform, associ
 
 BEAM means the fungible test token issued on the Blockchain and having the utilities described in these Terms.
 
-Blockchain means the Gyri blockchain, a permissioned blockchain developed based on Hyperledger Fabric, owned and controlled by the Ario Blockchain Trust.
+Blockchain means the Gyri blockchain, a permissioned blockchain developed based on Hyperledger Fabric.
 
 Company means Gala Music SA, a company registered in Switzerland under the number CHE-299.099.161.
 
