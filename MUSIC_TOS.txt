@@ -1,7 +1,8 @@
 TERMS OF USE OF THE GALA MUSIC PLATFORM
+
 PLEASE READ THESE TERMS CAREFULLY AND IN FULL.
 
-BY ACCESSING OR USING THE GALA MUSIC PLATFORM (as defined below) AS AVAILABLE AT HTTPS://MUSIC.GALA.COM, YOU SHALL BE LEGALLY BOUND BY THESE TERMS OF USE (“TERMS”) IN ITS ENTIRETY.
+ BY ACCESSING OR USING THE GALA MUSIC PLATFORM (AS DEFINED BELOW) AS AVAILABLE AT HTTPS://MUSIC.GALA.COM, YOU SHALL BE LEGALLY BOUND BY THESE TERMS OF USE (“TERMS”) IN ITS ENTIRETY.
 
 IF YOU DO NOT AGREE TO THESE TERMS OR ANY ARTICLE CONTAINED IN THESE TERMS, THEN YOU MUST NOT USE THE PLATFORM OR ACCESS ANY CONTENT ON THE PLATFORM.
 
@@ -9,7 +10,7 @@ THESE TERMS HAVE NOT BEEN APPROVED BY, LICENSED BY OR REGISTERED WITH ANY SUPERV
 
 THE COMPANY IS NOT AN ENTITY REGULATED BY ANY SUPERVISORY/REGULATORY AUTHORITY.
 
-THIS PLATFORM IS NOT AVAILABLE TO ANYONE RESIDING OR OTHERWISE ESTABLISHED IN A JURISDICTION WHERE ITS USE CONTRAVENES APPLICABLE LAWS.
+THIS  PLATFORM IS NOT AVAILABLE TO ANYONE RESIDING OR OTHERWISE ESTABLISHED IN A JURISDICTION WHERE ITS USE CONTRAVENES APPLICABLE LAWS.
 
 DEFINITIONS
 Account means the user account created upon registration on the Platform, associated with an individual wallet on the Blockchain.
@@ -22,11 +23,12 @@ Company means Gala Music SA, a company registered in Switzerland under the numbe
 
 DIC means Gala Entertainment DIC, a Company in incorporation in the United Arab Emirates.
 
-Sale means the sale of a limited number of Tracks associated with a specific song, as conducted for a limited time.
+Sale  means the sale of a limited number of Tracks associated with a specific song, as conducted for a limited time.
 
 Ethereum means the Ethereum public and permissionless blockchain.
 
 Force Majeure Event means the circumstances beyond the reasonable control of the Company, including natural phenomena, government measures, acts of terrorism, demonstrations, fires, explosions, floods, epidemics, pandemics, lockdown measures, blockades, strikes or other labor disputes, market fall, stock market and economy crashes, IT system or infrastructure attacks beyond the control of the Company, accidents, factory breakdowns, impediments or delays on the part of transporters, impossibility or delay in obtaining supplies or appropriate and necessary equipment, seizure, sequestration or other measures taken by or on the orders of an apparently competent authority and all other acts which are neither foreseeable nor attributable to the Company and which are of such a nature as to delay or prevent the provision of the Services.
+
 Gala Music Player means the decentralized music player made available through the Platform and constituted out of Music Nodes.
 
 Gala Games means Blockchain Game Partners Inc, a company registered in Wyoming, United States.
@@ -45,10 +47,10 @@ Store means the All-Access Fan Store made available through the Platform and thr
 
 Track means the IPFS file containing (i) a copy of a master record for a specific song, (ii) the artwork associated with that song and (iii) a (sub)license on the master record allowing public play thereof.
 
-SCOPE
+ SCOPE
 The Platform and the Services are made available to you by the Company according to these Terms.
 
-The Terms take effect, and you are bound thereby, along with all terms and conditions which are incorporated thereto by reference, when, upon registration on the Platform, you click on the "I have read, and agree to the Terms of Service and the Privacy Policy" check box presented along with a link to these Terms and the Privacy Policy.
+The Terms take effect, and you are bound thereby, along with all terms and conditions which are incorporated thereto by reference, when, upon registration on the Platform, you click on the "I have read, and agree to the Terms of Service and the Privacy Policy" check box presented along with a link to these Terms and the Privacy Policy.  
 
 If you have any questions relating to the Terms, please contact the Company before you accept them, through the Support Form available at https://music.gala.com/contact-support.
 
@@ -56,43 +58,52 @@ Your acceptance of these Terms is reiterated each time you log into your Account
 
 No third party has been authorized by the Company to issue ancillary information or advertisements with regards to the contents of these Terms, the Platform or its Services, and, if issued, given, or made, such shall not be trusted, and the Company shall not be responsible for such.
 
+
 PLATFORM SERVICES.
 
 Company is a decentralized distributed application on a blockchain network, using smart contracts (each a “Smart Contract”) to enable its Users to own, buy, sell, transfer, and share unique digital rewards that can be interacted with on the Platform.
+
 Purchases. The Platform may provide Users with the ability to purchase Platform Assets (as defined below) through its Platform, Platform Auction (as defined below), or a means other than the Platform or Platform Auction. ANY PURCHASE OR SALE THAT YOU MAKE VIA THE PLATFORM, PLATFORM AUCTION, OR A MEANS OTHER THAN THE PLATFORM OR BY WAY OF PLATFORM AUCTION, OR ANY PRODUCTS, FEATURES, AND SERVICES CONTAINED PROVIDED THEREON, IS ENTIRELY AT YOUR OWN RISK, EVEN IF SAID PURCHASE CONTAINS PLATFORM ASSETS OR IS ON THE PLATFORM USING THE PLATFORM AUCTION. NEITHER THE PLATFORM NOR COMPANY WILL INDEMNIFY OR HOLD THE USER HARMLESS FOR SAID PURCHASE/AUCTION OR OWE ANY LEGAL DUTY OR OBLIGATION TO THE USER. USER BEARS THE FULL RESPONSIBILITY FOR VERIFYING THE IDENTITY, LEGITIMACY, AND AUTHENTICITY OF PLATFORM ASSETS PURCHASED ON THE PLATFORM VIA PLATFORM AUCTION OR ANY OTHER MEANS. COMPANY AND THE PLATFORM MAKE NO REPRESENTATIONS REGARDING THE IDENTITY, LEGITIMACY, OR AUTHENTICITY OF PLATFORM ASSETS. USER ALSO AGREES AND ACKNOWLEDGES THEY ARE SUBJECT TO THE LICENSING TERMS AND RESTRICTIONS ACCOMPANYING THE USE OF ANY PURCHASED PLATFORM ASSETS, INCLUDING BUT NOT LIMITED TO, RESTRICTIONS ON COMMERCIAL OR NON-COMMERCIAL USE (COLLECTIVELY THE “TERMS AND RESTRICTIONS”). USER IS SOLELY RESPONSIBLE FOR ABIDING BY THE TERMS AND RESTRICTIONS, AND COMPANY IS NOT LIABLE IN THE EVENT USER DOES NOT ABIDE BY THE TERMS AND RESTRICTIONS.
 
 Platform Assets. Platform Assets refer to non-fungible tokens (“NFTs”) that are made available via Platform Auction on the Platform by Company, created and implemented on the Ethereum network or other blockchain platform(s) that the Platform allows, by way of smart contract or otherwise.
 
-Platform Auction. Platform Auction refers to the sale mechanism supported by the Platform in which Platform Assets are made available for purchase by Users. Company reserves the right to publish a guide and/or rules surrounding the Platform Auction at any time (including, but not limited to, disclosure of odds related to any individual Platform Auction sale). Said rules, if created, will be incorporated into this Agreement by reference. All transactions via Platform Auction are initiated and fulfilled by ways of Wallet Extensions and decentralized blockchain technology. The User may install and use any electronic wallet provided by a third party company that safely connects to the Company Blockchain. If the User is a current Company wallet holder, the User will be able to connect to MetaMask wallet, however, the User’s original Company wallet will not be usable on the Platform.
-MetaMask and other electronic wallets allow the User to purchase (either directly via Coinbase or via third party sites), store, and engage in transactions using Ethereum cryptocurrency. Ethereum requires the payment of a transaction fee (“Gas fee”) for every transaction that occurs on Ethereum network. The User will need to pay a Gas fee for each transaction that occurs via MetaMask or any other similar third party company that provides an electronic wallet. Company neither owns nor controls Metamask, Coinbase or any third party company, product or service that User may access, visit, or use. Company will have no access or control over these payments or transactions, or ability to to reverse any payments or transactions. Company will be not liable for acts or omissions of Metamask, Coinbase, or any other such third parties, nor will Company be liable for any damage that you may suffer as a result of your transactions or any other interactions with any such third parties. Company incorporates by reference the Company Music Website FAQs
+Platform Auction. Platform Auction refers to the sale mechanism supported by the Platform in which Platform Assets are made available for purchase by Users. Company reserves the right to publish a guide and/or rules surrounding the Platform Auction at any time (including, but not limited to, disclosure of odds related to any individual Platform Auction sale). Said rules, if created, will be incorporated into this Agreement by reference. All transactions via Platform Auction are initiated and fulfilled by ways of Wallet Extensions and decentralized blockchain technology. The User may install and use any electronic wallet provided by a third party company that safely connects to the Company Blockchain. If the User is a current Company wallet holder, the User will be able to connect to MetaMask wallet, however, the User’s original Company wallet will not be usable on the Platform. MetaMask and other electronic wallets allow the User to purchase (either directly via Coinbase or via third party sites), store, and engage in transactions using Ethereum cryptocurrency. Ethereum requires the payment of a transaction fee (“Gas fee”) for every transaction that occurs on Ethereum network. The User will need to pay a Gas fee for each transaction that occurs via MetaMask or any other similar third party company that provides an electronic wallet.  Company neither owns nor controls Metamask, Coinbase or any third party company, product or service that User may access, visit, or use. Company will have no access or control over these payments or transactions, or ability to to reverse any payments or transactions.  Company will be not liable for acts or omissions of Metamask, Coinbase, or any other such third parties, nor will Company be liable for any damage that you may suffer as a result of your transactions or any other interactions with any such third parties. Company incorporates by reference the Company Music Website FAQs
 
-THE PLATFORM
+ THE PLATFORM
 The Platform acts as an interface allowing anyone to access and benefit from a decentralized streaming service as well as the ancillary infrastructure and services such as those detailed in these Terms.
 
-THE CURRENT SERVICES ARE THE FOLLOWING:
+THE CURRENT SERVICES ARE THE FOLLOWING:  
 
-Sales
+A.     Sales
 
-The Platform offers access to Sales on the occasion of which Tracks can be purchased. Upon the launch of each Sale, the Company will announce the following information:
-The total number of Tracks being offered for sale;
+The Platform offers access to Sales on the occasion of which Tracks can be purchased.
 
-The number of tiers;
+Upon the launch of each Sale, the Company will announce the following information:
 
-The number of Tracks being offered in each tier;
+-        The total number of Tracks being offered for sale;
 
-The price per Track for each tier.
+-        The number of tiers;
 
-MUSIC STREAMING
+-        The number of Tracks being offered in each tier;
+
+-        The price per Track for each tier.
+
+B.     MUSIC STREAMING
 
 The Platform offers free access to the Gala Music Player (as defined below) , a decentralized streaming service.
 
+ 
+
 The catalogue of songs made available through the Gala Music Player contains songs which were sold as Tracks and subsequently paired by their owners with a Music Node.
 
-Company provides an online service which gives users the opportunity to select from various offerings of digital content, including but not limited to, (i) streaming sound recordings (“Music NFTs) and/or other Digital Content for viewing over a limited period of time ("Streaming Digital Content"); (ii) downloading Music NFTs and/or other Digital Content for an indefinite period of time ("Purchased Digital Content"), (collectively, the "Content"). Our service, the Content, our player for viewing the Content (the "Music Player" or “Gala Music Player”) and any other products, features, tools, materials, or other services (including third-party branded services) offered from time to time by Company through a variety of Access Points (defined below) are referred to collectively as the "Services." The term "Access Points" refers to, collectively, https://music.gala.com, applications, and other places where any Services are available, including websites and applications of Company's third-party distribution partners and other websites where users or website operators are permitted to embed or have otherwise licensed the Music Player. Company may restrict or limit the specific manner in which User may access, stream, download, or otherwise interact with Content made available on or through the Platform, or Company may impose a fee in order for User to access, stream, download, or otherwise interact with the Content or Music NFTs.
+
+Company provides an online service which gives users the opportunity to select from various offerings of digital content, including but not limited to, (i) streaming  sound recordings (“Music NFTs) and/or other Digital Content for viewing over a limited period of time ("Streaming Digital Content"); (ii) downloading Music NFTs and/or other Digital Content for an indefinite period of time ("Purchased Digital Content"),  (collectively, the "Content"). Our service, the Content, our player for viewing the Content (the "Music Player" or “Gala Music Player”) and any other products, features, tools, materials, or other services (including third-party branded services) offered from time to time by Company through a variety of Access Points (defined below) are referred to collectively as the "Services." The term "Access Points" refers to, collectively, https://music.gala.com, applications, and other places where any Services are available, including websites and applications of Company's third-party distribution partners and other websites where users or website operators are permitted to embed or have otherwise licensed the Music Player. Company may restrict or limit the specific manner in which User may access, stream, download, or otherwise interact with Content made available on or through the Platform, or Company may  impose a fee in order for User to access, stream, download, or otherwise interact with the Content or Music NFTs.
 
 Purchase and Rental Transactions; Cancellations. Except as described in this paragraph, all transactions for Purchased Digital Content and Streaming Digital Content are final, and we do not accept returns of such Digital Content.
 
+
 Limited License to Digital Content.
+
 Subject to payment of any charges to rent, purchase, or access Digital Content, and your compliance with this Terms of Use Company grants you a non-exclusive, non-transferable, non-sublicensable, limited license, during the applicable Listening Period, to access and view the Digital Content in accordance with the Usage Rules, for personal, non-commercial, private use. We may automatically remove Digital Content from your Compatible Device after the end of its Viewing Period.
 
 Availability of Purchased Digital Content.
@@ -117,64 +128,106 @@ Internet Service and Data Usage.
 
 In order to access the Services, you must have a high-speed broadband, wireless or similar internet connection from an internet service provider that meets certain technical specifications. Please note that multiple simultaneous streams, as well as HD and 4K Ultra HD Content, may require higher internet bandwidth. You are responsible for any costs associated with your internet service used to access the Services. Your use of the Services may count toward your data usage, depending on the terms of your agreement with your internet service provider.
 
+
 General Restrictions.
-You may not (i) reproduce, distribute, publicly display, or publicly perform the Digital Content; (ii) transfer, copy or display the Digital Content, except as permitted in this Agreement; (iii) sell, rent, lease, distribute, or broadcast any right to the Digital Content; (iv) remove any proprietary notices or labels on the Digital Content; (v) attempt to disable, bypass, modify, defeat, or otherwise circumvent any digital rights management or other content protection system used as part of the Service; or (vi) use the Service or Digital Content for any commercial or illegal purpose.
+
+You may not (i) reproduce, distribute, publicly display, or publicly  perform the Digital Content; (ii) transfer, copy or display the Digital Content, except as permitted in this Agreement; (iii) sell, rent, lease, distribute, or broadcast any right to the Digital Content; (iv) remove any proprietary notices or labels on the Digital Content; (v) attempt to disable, bypass, modify, defeat, or otherwise circumvent any digital rights management or other content protection system used as part of the Service; or (vi) use the Service or Digital Content for any commercial or illegal purpose.
 
 For Artists.
 
 If you are accessing and using the Platform as an Artist (“Artist), you hereby represent and warrant to Company that: (i) all Content that you publish or otherwise make available on or through the Platform is your original work of authorship for which you are the sole and exclusive owner, or that you have obtained all licenses, consents, releases, and other permissions from the applicable third-party owner(s) thereof as may be necessary to grant Company the Content license in and to such Content hereunder, and (ii) the use of such Content by Company and/or any other User or sublicensee of Company does not, and will not, violate any applicable laws or the rights of any third-party, including, without limitation, any right of publicity, right of privacy, copyright, patent, trademark, or other intellectual property right or proprietary right. Each Artist acknowledges and agrees that its Content will be made publicly available to other Users on the Platform via the Platform in accordance with these Terms and Conditions. Each Artist further acknowledges and agrees that its account profile name or login identifier will be linked to, or appear alongside, all such publicly available Content.
 
-STORE
+
+C.     STORE
 
 The Platform offers free access to the Store acting as an all-access gateway to various fan experiences curated by the Company. These experiences can be online or offline.
 
-YOUR ACCOUNT
+YOUR ACCOUNT  
 To access the Services, you need to register on the Platform and by doing so, create an Account.
 
 IF YOU OPEN AN ACCOUNT, YOU WILL BE LEGALLY BOUND BY THESE TERMS IN THEIR ENTIRETY.
 
 The registration process requires you to submit the following information:
 
-First Name
-Last Name
-Email address
-Display Name
-Password
-Referral Code (if applicable)
+ 
+
+1.     First Name
+
+2.     Last Name
+
+3.     Email address
+
+4.     Display Name
+
+5.     Password
+
+6.     Referral Code (if applicable)
+
+ 
 
 All information you submit must be accurate at the time of registration and must be subsequently updated immediately as necessary.
 
+ 
+
 Any personal information will be handled per Company´s privacy policy, as available at the following URL: https://music.gala.com/privacy-policy
+
+ 
+
 At any time, the Company may change the registration requirements based on applicable laws, regulations, or for any other reason. As such, the Company may ask you for additional information and/or documentation. Should you fail to reply promptly and/or fail to provide the desired information and/or documentation within a timeframe to be determined by the Company at its discretion, the Company may temporarily suspend your account or the ability to engage with specific Services, until the request is fulfilled, at the Company´s discretion.
+
+ 
 
 YOU REPRESENT AND WARRANT THE FOLLOWING:
 
-You will solely use your Account for yourself, to the exclusion of the benefit of any third party.
-You will not create a second Account while the first Account remains in existence,
-You will not share, sell, or lease your Account,
-You will not connect your Account with an unauthorized third-party site, person, or otherwise.
+ 
+
+1.   You will solely use your Account for yourself, to the exclusion of the benefit of any third party.
+
+2.     You will not create a second Account while the first Account remains in existence,
+
+3.     You will not share, sell, or lease your Account,
+
+4.  You will not connect your Account with an unauthorized third-party site, person, or otherwise.    
+
+   
 
 You acknowledge and agree to be responsible for all use of your Account, including use by others with whom you shared your login credentials in violation of this article.
 
+ 
+
 Because you are responsible for all use of your Account, including unauthorized use by any third party, please guard the security and confidentiality of your login credentials with utmost care.
 
-The Company may restrict, fully or partially, suspend or terminate your Account immediately and without notice if:
 
-the Company determines the User’s use of the Platform poses a security risk to the Platform or any third party, could adversely impact the Company or any other users, or could subject the Company, its affiliates, or any third party to liability, or could be fraudulent;
-the User is in breach of these Terms;
-the User initiated a chargeback or dispute with respect to any payment or purchase made through the Platform;
-the User has ceased to operate in the ordinary course, made an assignment for the benefit of creditors or similar disposition assets, or become the subject of any bankruptcy, reorganization, liquidation, dissolution or similar proceeding;
-uses the Platform from a Restricted Jurisdiction;
-for any other reason that the Company determines, at its sole discretion.
+​​The Company may restrict, fully or partially, suspend or terminate your Account immediately and without notice if:
+
+
+(i) the Company determines the User’s use of the Platform poses a security risk to the Platform or any third party, could adversely impact the Company or any other users, or could subject the Company, its affiliates, or any third party to liability, or could be fraudulent;
+
+(ii) the User is in breach of these Terms;
+
+(iii) the User initiated a chargeback or dispute with respect to any payment or purchase made through the Platform;
+
+(iv) the User has ceased to operate in the ordinary course, made an assignment for the benefit of creditors or similar disposition assets, or become the subject of any bankruptcy, reorganization, liquidation, dissolution or similar proceeding;
+
+(v) uses the Platform from a Restricted Jurisdiction;
+
+(vi) for any other reason that the Company determines, at its sole discretion.
+
 
 The Company shall not have any liability or obligation to the User, and the User will not be entitled to any refund or other damages as a result of any such restriction, suspension or termination.
 
+
 Restricted Jurisdictions shall be understood as including the following:
 
-any jurisdiction in which applicable laws prohibit or otherwise restrict owning tokens or transacting therewith, or in which public authorities inflict administrative or criminal sanctions which result in a prohibition of specific activities involving tokens, such as notably the People’s Republic of China.
-any jurisdiction in services involving tokens would require the Company to comply with financial regulations, notably any filings and authorizations required thereby.
 
-any jurisdiction being blacklisted by the Financial Action Task Force.
+(i) any jurisdiction in which applicable laws prohibit or otherwise restrict owning tokens or transacting therewith, or in which public authorities inflict administrative or criminal sanctions which result in a prohibition of specific activities involving tokens, such as notably the People’s Republic of China.
+
+(ii) any jurisdiction in services involving tokens would require the Company to comply with financial regulations, notably any filings and authorizations required thereby.
+
+
+(iii)   any jurisdiction being blacklisted by the Financial Action Task Force.
+
+
 
 BEAMS
 The Platform relies on BEAMS as a means of interacting with specific Services.
@@ -185,11 +238,12 @@ BEAMS are generated exclusively through your activity on the Platform and cannot
 
 Each user can display his/her/its/their BEAMS´ information exclusively through the Platform, including the following:
 
-Number of BEAMS;
+-        Number of BEAMS;
 
-Transaction history.
+-        Transaction history.
 
 SERVICE FEES
+
 Any service fees collected at the occasion of your interaction with the Platform are displayed on the Platform prior to any such fees being effectively collected from you.
 
 For Services interacting with the Blockchain or Ethereum, additional transaction fees may apply.
@@ -199,6 +253,7 @@ CREDIT CARD PAYMENTS
 If User pays by credit card or certain other payment instruments, User may be provided with a third-party interface (hereinafter “Payment Processor”), to input, change, and update Users payment information to make payment. The processing of payments may be subject to the terms, conditions, and policies of the Payment Processors in addition to this agreement (Circle (https://support.usdc.circle.com/hc/en-us/articles/360001233386). All User rights and privileges with respect to Payment Processor are set out in the Circle Account User Agreement. Company has no liability for fiat transactions, all of which liability rests with Payment Processor. Company is not a custodian for Users’ credit card or certain other payment instruments and is not responsible for the acts or omissions of the Payment Processor(s).
 
 Users agree to pay Company through the payment processors, all applicable fees and customer agrees and authorizes Company and payment processor us to charge all sums including all applicable taxes to payment methods specified or linked to your account.
+
 When Users provide payment information to Payment Processor or to one of its payment processors, User represent that User is the authorized User of the card, PIN, key, or account associated with that payment, and Users authorizes Company and Payment Processor to charge User’s credit card or to process User’s payment with the chosen third-party payment processor for any payment, withdrawal, or fees incurred by you.
 
 FOR PAYMENTS IN CRYPTOCURRENCY: PAYMENT PROCESSOR ONLY SUPPORTS USDC.
@@ -208,36 +263,67 @@ The User has read the Terms & Conditions and understands that by purchasing with
 Transaction Limits – User understands and acknowledges that Users use of the Platform is subject to a transactional limit in a given time period. Such limits may vary, at our sole discretion.
 
 Transactional Limits:
-Single Transaction: $5,000 Daily: $5,000
-Weekly: $10,000 Monthly: $40,000 “Charge Backs”
+
+Single Transaction: $5,000
+
+Daily: $5,000
+
+Weekly: $10,000
+
+Monthly: $40,000
+
+“Charge Backs”
+
 In the event of a charge back, Company may, in its sole discretion, carry out one or more of the following actions:
+
 User will be temporarily auto banned
+
 User will not be eligible for daily distribution
 
-Sales
+Sales  
 
-A. CONTENT OF TRACKS
+A.     CONTENT OF TRACKS
 
-The Company holds or has been licensed the neighbouring rights on master records to songs.
+The Company holds or has been licensed the neighbouring rights on master records to songs.  
+
+ 
 
 The Company releases Tracks made available for sale through the Platform and which contain the following:
 
-a copy of the master record of a specific song
-an artwork.
+
+1      a copy of the master record of a specific song
+
+2      an artwork.
+
+ 
 
 The foregoing elements are encapsulated in an IPFS file constituting the Track.
 
-4 PARTICIPATING IN A DROP
+B.       PARTICIPATING IN A NFT RELEASE
 
-Through each Drop, the Company releases a defined number of Tracks per song.
-For each Drop, the Company provides at least the following information:
+ 
 
-Title of the song whose master record is enclosed in the Track;
-Total number of Tracks released through the Drop;
-Price per Track;
-Accepted currencies.
+Through each release, the Company releases a defined number of Tracks per song.
 
-The Company reserves the right to publish complementary provisions applicable to the sale mechanism of a specific Track which, if published, are to be deemed incorporated into these Terms by reference.
+ 
+
+For each release, the Company provides at least the following information:
+
+ 
+
+1      Title of the song whose master record is enclosed in the Track;
+
+2      Total number of Tracks released;
+
+3      Price per Track;
+
+4      Accepted currencies.
+
+ 
+
+C.       DISTRIBUTION OF MUSIC NFTS TO NODE OPERATORS
+
+The User acknowledges and accepts that any and all Music NFTs released exclusively to Users who own Music Nodes and Node Operators, to enable them to test out any new NFT-Music Node pairing utility, are subject to terms and conditions that may deviate from the standard Terms of Use as set forth herein. The Music NFTs being provided for the specific purpose of testing pairing utility (“Test NFTs”) are not correlated with a Track as described in the Terms of Use. The content of the Test NFTs are limited to what is indicated in its metadata, and it shall not be construed as including anything else based on what was or was not included in previous NFT releases. Upon effective pairing with a Music Node or subsequently, the content of the Test NFTs may be unilaterally modified. Any such modification will be expressly communicated to the User prior to its implementation. The User acknowledges and agrees having no claim against the Company regarding the content of the Test NFTs being released for free and Company does not warrant or guarantee anything in relation to the Test NFTs. Further, the Company reserves the right to publish complementary provisions applicable to the sale mechanism of a specific Track which, if published, are to be deemed incorporated into these Terms of Use by reference.
 
 THE GALA MUSIC PLAYER
 The Company offers streaming through the Gala Music Player.
@@ -248,7 +334,7 @@ The Gala Music Player is operational as soon as at least two Music Nodes are pai
 
 Quality of streaming may further be affected by your location, the speed and bandwidth of your internet service, and the devices you use, among other factors. As a result, the Company is unable to make any warranties about the streaming speed and quality.
 
-PURCHASE OF MUSIC NODES
+A.     PURCHASE OF MUSIC NODES
 
 The Company does not sell Music Nodes. Music Nodes can be purchased directly from Gala Games.
 
@@ -256,20 +342,21 @@ The Company displays information made available by the Gala Games and, through i
 
 ANY AGREEMENT RELATING TO THE PURCHASE OF MUSIC NODES IS CONCLUDED DIRECTLY WITH GALA GAMES.
 
-The Company does not review nor endorse any liability for this information and the Music Nodes.
+The Company does not review nor endorse any liability for this information and the Music Nodes.  
 
-CONNECTING MUSIC NODES
+B.     CONNECTING MUSIC NODES
 
 To be able to pair Music Nodes, third parties must register as Users on the Platform.
 
 Owners of Music Nodes make them available to the Company as part of the Gala Music Player by pairing them and to this end, clicking on “Activate Player”.
+
 By pairing a Music Node, the User represents and warrants (1) meeting the technical specifications detailed on the Platform to ensure that the Music Node can run adequately and (2) intending to effectively run such Music Node sufficiently often, without undue and repeated on and off times.
 
 Pairing results in granting the Company a sub-license on the Music Node in exchange for royalties paid out in BEAMS.
 
 These royalties are proportional to the actual use of the Music Node as a unit of the Gala Music Player and correspond to share of any royalties due to Track holders. The exact attribution matrix is at all times displayed on the Platform.
 
-PAIRING TRACKS WITH MUSIC NODES
+C.     PAIRING TRACKS WITH MUSIC NODES
 
 Tracks need to be paired with one of the Music Nodes constituting the Gala Music Player. This is only possible once the Track is integrated by its owner with an NFT.
 
@@ -283,11 +370,11 @@ Upon mint, the NFT is transferred directly and automatically to the wallet assoc
 
 For each Track minted as an NFT, the User can proceed with pairing by clicking on one of the following buttons:
 
-“Track Slot Available” for Users having besides paired a Music Node, to pair the NFT directly and by preference with their Music Node.
+“Track Slot Available” for Users having besides paired a Music Node, to pair the NFT directly and by preference with their Music Node.  
 
 “Host Selected Track” for Users having not paired a Music Node or whose Music Node has no slots available at the moment of pairing, to pair the NFT with the Music Node run by another User selected randomly.
 
-STREAMING THROUGH MUSIC NODES
+D.     STREAMING THROUGH MUSIC NODES
 
 As soon as at least one owner paired his/her/its/their Track with the Gala Music Player, the song contained therein is available for streaming.
 
@@ -295,9 +382,10 @@ Some songs could yet be unavailable on the Gala Music Player in the absence of p
 
 Each Music Node contains an unlimited number of slots with which Tracks can be paired for streaming.
 
-The initial pairing makes 10 slots available per default. More slots can be made available to the Gala Music Player by spending BEAMS. The number of BEAMS to be spent to unlock additional slots is indicated on the Platform and may be at all times amended by the Company.
+The initial pairing makes 10 slots available per default. More slots can be made available to the Gala Music Player by spending BEAMS. The number of BEAMS to be spent to unlock additional slots is indicated on the Platform and may be at all times amended by the Company.  
 
-D. COLLECTING ROYALTIES
+E.     COLLECTING ROYALTIES
+
 Since Track owners hold a license on the neighbouring rights attached to the song master record, anyone who makes public use of the Track, notably by streaming, needs to obtain a sub-license and pay the related royalties.
 
 By pairing a Track, you agree and accept granting such a sub-license to the Company in return for royalties paid out in BEAMS. Such royalties are due only upon the effective stream of the song contained, based on a uniform royalty payment scheme as detailed on the Platform. The amount of royalties due is updated daily and displayed on the Platform.
@@ -305,80 +393,173 @@ By pairing a Track, you agree and accept granting such a sub-license to the Comp
 THE STORE
 Any purchase from the Store can only be made with KEYS while KEYS can only be minted by burning BEAMS. The applicable rate is at all times displayed on the Platform at.
 
+
 KEYS are non-transferrable tokens which can at any time be redeemed against BEAMS.
+
 
 Each KEY corresponds to a specific number of points which increases as the KEY ages. The number of points associated with each KEY as well as the number of BEAMS burnt to create it, are recorded in the metadata along with its mint date.
 
+
 Prices in the Store are therefore expressed exclusively in points. The number of KEYS required to purchase a specific item may therefore differ from one User to another, depending on the age of the KEY he/she/it/they hold.
 
+
 PROHIBITED USES
+
 As a condition of your use of the Platform, you warrant to the Company that you will not use the Platform for any purpose that is unlawful or prohibited by these Terms or which could damage, disable, overburden, or impair the Platform or interfere with any other party’s use and enjoyment of the Platform.
 
 You may not obtain or attempt to obtain any materials or information through any means not intentionally made available or provided for through the Platform.
 
 The User agrees that any use of the Platform shall be for lawful purposes as expressly permitted and contemplated by these Terms.
 
+ 
+
 The User shall not use the Platform for any other purposes without the Company’s express prior written consent.
+
+ 
 
 The User shall never use the Platform for the following purposes:
 
-any purpose that is unlawful or prohibited by regulations applicable to the User.
+ 
 
-any purpose that is not personal use.
+(a) any purpose that is unlawful or prohibited by regulations applicable to the User.
 
-to defame, harass, abuse, threaten, stalk, or defraud other Users or collect, or attempt to collect, personal information about them without their consent.
-to intentionally interfere with or damage, impair or disable the operation of the Platform or any enjoyment of it by any means, including but not limited to uploading or otherwise disseminating viruses, worms, spyware, adware, or other malicious code, or placing a disproportionate load on the Platform with the intended result of denying service to other Users.
+ 
 
-to remove, circumvent, disable, damage or otherwise interfere with any security-related features of the Platform, features that prevent or restrict the use or copying of any part of the Platform, or features that enforce limitations on the use of the Platform.
+(b) any purpose that is not personal use.
 
-to gain unauthorized access to the Platform or any part of it, including gaining access or attempting to gain access to computer systems or networks connected to the Platform or any part of it, through request, hacking, password mining or any other means or interfere or attempt to interfere with the proper working of the Platform or any activities conducted through the Platform.
+ 
 
-to obtain or attempt to obtain any materials or information through any means not intentionally made available through the Platform. You agree neither to modify the Platform in any manner or form nor to use modified versions of the Platform, including (without limitation) to obtain unauthorized access to the Platform or for the removal of any proprietary notices or labels on the Platform.
+(c) to defame, harass, abuse, threaten, stalk, or defraud other Users or collect, or attempt to collect, personal information about them without their consent.
 
-to use any robot, spider, scraper, or other automated means to access the Platform for any purpose without our express prior written permission or bypass our robot exclusion headers or other measures we may use to prevent or restrict access to the Platform.
+ 
 
-to use framing techniques to enclose any trademark, logo, or other materials without our express prior written consent. You agree not to use any meta tags or any other “hidden text” using the Company’s name or trademarks without the Company’s express prior written consent.
+(d) to intentionally interfere with or damage, impair or disable the operation of the Platform or any  enjoyment of it by any means, including but not limited to uploading or otherwise disseminating viruses, worms, spyware, adware, or other malicious code, or placing a disproportionate load on the Platform with the intended result of denying service to other Users.
 
-You agree not to use any Company’s logos, graphics, or trademarks as part of a link without its express prior written consent.
+ 
 
-to sell, rent, lease, distribute, broadcast, sublicense or otherwise assign any right to the Platform to any third party.
+(e) to remove, circumvent, disable, damage or otherwise interfere with any security-related features of the Platform, features that prevent or restrict the use or copying of any part of the Platform, or features that enforce limitations on the use of the Platform.
 
-to make unsolicited offers, advertisements, proposals, or send junk mail or spam to other Users or to insert your own or a third party’s advertising, branding or other promotional content on the Platform. This includes but is not limited to, unsolicited advertising, promotional materials or other solicitation material, bulk mailing of commercial advertising, chain mail, informational announcements, charity requests, and petitions for signatures.
+ 
 
-to reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the Platform or any part thereof, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+(f) to gain unauthorized access to the Platform or any part of it, including gaining access or attempting to gain access to computer systems or networks connected to the Platform or any part of it, through request, hacking, password mining or any other means or interfere or attempt to interfere with the proper working of the Platform or any activities conducted through the Platform.
 
-to modify, adapt, translate, or create derivative works based upon the Platform or any part thereof, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+ 
 
-to use the Platform to harm another in any way.
-Unauthorized or prohibited use of the Platform may subject you to civil liability, criminal prosecution, or both under local laws.
+(g) to obtain or attempt to obtain any materials or information through any means not intentionally made available through the Platform. You agree neither to modify the Platform in any manner or form nor to use modified versions of the Platform, including (without limitation) to obtain unauthorized access to the Platform or for the removal of any proprietary notices or labels on the Platform.
+
+ 
+
+(h) to use any robot, spider, scraper, or other automated means to access the Platform for any purpose without our express prior written permission or bypass our robot exclusion headers or other measures we may use to prevent or restrict access to the Platform.
+
+ 
+
+(i) to use framing techniques to enclose any trademark, logo, or other materials without our express prior written consent. You agree not to use any meta tags or any other “hidden text” using the Company’s name or trademarks without the Company’s express prior written consent.
+
+ 
+
+(j) You agree not to use any Company’s logos, graphics, or trademarks as part of a link without its express prior written consent.
+
+ 
+
+(k) to sell, rent, lease, distribute, broadcast, sublicense or otherwise assign any right to the Platform to any third party.
+
+ 
+
+(l) to make unsolicited offers, advertisements, proposals, or send junk mail or spam to other Users or to insert your own or a third party’s advertising, branding or other promotional content on the Platform. This includes but is not limited to, unsolicited advertising, promotional materials or other solicitation material, bulk mailing of commercial advertising, chain mail, informational announcements, charity requests, and petitions for signatures.
+
+ 
+
+(m) to reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the Platform or any part thereof, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+
+ 
+
+(n) to modify, adapt, translate, or create derivative works based upon the Platform or any part thereof, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+
+ 
+
+(o) to use the Platform to harm another in any way.
+
+ 
+
+In order to preserve the integrity of the Company and the Platform, Company will have the right to monitor compliance with these Terms, investigate possible breaches of the Terms, and impose sanctions for violations. Users agree to cooperate with the Company in any such investigation. If Company determines that a User has been cheating or has otherwise violated the Terms, the User may be immediately disqualified and removed from the Platform. In addition, Company may, in its sole discretion:
+
+
+• Issue a warning to the User and publish that warning publicly;
+
+
+• Disqualify the User from participating in any future events;
+
+
+• Withhold or revoke any part of the points and prizes awarded to the User;
+
+
+• Terminate all licenses granted to the User from the Company, and/or
+
+
+• Terminate all Company accounts that are held by the User.
+
+
+Company’s determination as to the appropriate disciplinary action will be final and binding. Company reserves the right to lock out Users whose eligibility is in question or who have been disqualified or are otherwise ineligible. The failure by a User to cooperate with any internal or external investigation that Company conducts relating to a violation of the Terms or applicable law is, itself, a violation of the Terms.
+
+
+Further, unauthorized or prohibited use of the Platform may subject you to civil liability, criminal prosecution, or both under local laws.
 
 DOWNTIME
+
 The Company does not warrant that the Platform operates uninterrupted or error-free.
 
-Since the Platform is web-based, it might be subject to temporary downtime. A downtime may result from glitches, updates, or maintenance of the Platform. As a result of downtime, the Platform will not be available for a certain period.
+ 
+
+Since the Platform  is web-based, it might be subject to temporary downtime. A downtime may result from glitches, updates, or maintenance of the Platform. As a result of downtime, the Platform  will not be available for a certain period.
+
+ 
 
 The Company is not responsible for any damages or losses suffered by the User because of any failure or interruption of the Platform and/or suspension of the User's access to the Platform.
 
+
 TRADEMARK
+
 The names and logo and all related products and services names, design marks and slogans are the trademarks or service marks of the Company or its licensors. No trademark or service mark license is granted in connection with the materials contained in the Platform.
+
+ 
 
 Access to the Platform does not authorize anyone to use any name, logo, or mark in any manner whatsoever.
 
+ 
+
 The User may not use the trademark of the Company, in connection with any product or service in any manner that is likely to cause confusion or create the impression that the Company endorses any product or service.
 
+ 
+
 INTELLECTUAL PROPERTY RIGHTS
+
 Intellectual Property Rights and all other proprietary rights to the Platform and its contents are the exclusive property of the Company or its licensors.
+
+ 
 
 All Intellectual Property Rights and all other proprietary rights to the Application not expressly granted herein are reserved to the Company.
 
+ 
+
 Subject to these Terms and to use the Platform, the Company grants the Users a limited, non-exclusive, non-transferable, non-sublicensable, royalty-free and revocable license to use and display the Platform for its intended purposes.
 
+ 
+
 Any other use of the Platform and its content, including without limitation distribution, reproduction, modification, making available, communication to the public, publicly perform, frame, download, display, or transmission, in whole or in part, without the prior written consent of the Company is strictly prohibited.
+
+ 
+
 The User may not derive or attempt to derive the source code and/or the object code of all or any portion of the software or mobile software of the Application, permit any third party to derive or attempt to derive such source code and/or object code, or reverse engineer, decompile, disassemble, or translate the software of the Platform or any part thereof.
+
+ 
 
 The Company, together with its licensors expressly reserve all Intellectual Property Rights in all text, programs, products, processes, technology, content, source codes, object codes, layouts, and other materials, which appear on the Platform.
 
+ 
+
 Access to the Platform does not confer and shall not be considered as conferring upon anyone any license under any of the Company's Intellectual Property Rights or any third party's Intellectual Property Rights, except as expressly provided in these Terms.
+
+ 
 
 Provided the User respects these Terms and all applicable laws, he/she/it may view, print and/or download copies of content from the Platform solely for his/her/its use for non-commercial and/or informational purposes.
 
@@ -387,19 +568,27 @@ You will not modify, publish, transmit, reverse engineer, participate in the tra
 None of the Company’s content is for resale.
 
 THIRD PARTY CONTENT
+
 The Company, at its sole discretion, may authorize third parties' content, notably artist's content, on the Platform, for instance in the form of logos, embedded videos or links, or banners. In such case, the User expressly understands and agrees that the Company is not responsible for the said third-party content and that it shall not be held liable as it does not have any control over such third-party content.
 
+ 
+
 The User understands and agrees that he/she/it potentially may be bound by third parties' policies and terms and conditions while accessing such third parties' content on the Platform. The User represents and warrants that he/she/it read and accepts such third parties' policies and terms and conditions (if any) and expressly agrees that the Company does not assume responsibility for these third parties' policies and terms and conditions.
+
+ 
 
 If the User has a dispute related to third parties' content (of any kind) and/or third parties policies and terms and conditions, he/she/it agrees to release the Company (including its affiliates, and each of its respective officers, directors, employees, agents, shareholders (if any), associates, partners, licensors, and suppliers) from any claims, demands and damages of every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way connected to such disputes.
 
 RISKS
+
 You expressly acknowledge that you have carefully reviewed, understand, and assume the risks associated with purchasing, holding, and using tokens and distributed ledger technology such as the Blockchain.
+
 If you have any questions regarding these risks, please contact us through the Support form.
 
-BY USING THE PLATFORM, YOU EXPRESSLY ACKNOWLEDGE AND ASSUME THESE RISKS.
+BY USING THE PLATFORM,  YOU EXPRESSLY ACKNOWLEDGE AND ASSUME THESE RISKS.
 
 SECURITY
+
 If your Account credentials are lost, you will lose access to the Platform and to your Account. We are not responsible for any such losses.
 
 You will implement reasonable and appropriate measures designed to secure access to your credentials and any device connected with the email address associated with your Account.
@@ -408,47 +597,37 @@ The Company is under no obligation to help you recover credentials and you ackno
 
 DISCLAIMERS
 THE CONTENT OF THE PLATFORM, INCLUDING BLOG, AND SOCIAL MEDIA (TWITTER, FACEBOOK, ETC.) AND ANY PRESS RELEASE OR ARTICLE OR PUBLIC STATEMENTS MADE BY THE COMPANY, ARE NONBINDING AND ARE SUBJECT TO CHANGE AT ITS SOLE DISCRETION. THEY ARE NOT PART OF THESE TERMS AND MUST NOT BE HELD AS MODIFYING OR AMENDING THEM IN ANY WAY.
-
 THE COMPANY EXPRESSLY DISCLAIMS ANY AND ALL RESPONSIBILITY FOR ANY DIRECT OR CONSEQUENTIAL LOSS OR DAMAGE OF ANY KIND WHATSOEVER ARISING DIRECTLY OR INDIRECTLY FROM (I) RELIANCE ON ANY INFORMATION CONTAINED ON THE WEBSITE, INCLUDING BLOG, SOCIAL MEDIA (TWITTER, FACEBOOK, ETC.) AND ANY PRESS RELEASE OR ARTICLE OR PUBLIC STATEMENTS MADE BY THE COMPANY (II) ANY ERROR, OMISSION, OR INACCURACY IN ANY SUCH INFORMATION OR (III) ANY ACTION RESULTING FROM SUCH INFORMATION.
-
 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW AND EXCEPT AS OTHERWISE SPECIFIED IN WRITING BY US,
-
-THE PLATFORM IS MADE AVAILABLE ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT ANY WARRANTIES OR REPRESENTATIONS OF ANY KIND, AND WE EXPRESSLY DISCLAIM ALL WARRANTIES AND REPRESENTATIONS RELATING TO THE PLATFORM (WHETHER EXPRESS OR IMPLIED), INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT, WHETHER ARISING BY LAW, COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE OF TRADE, OR OTHERWISE;
-
-WE DO NOT REPRESENT OR WARRANT THAT THE PLATFORM IS RELIABLE, CURRENT, ERROR-FREE, OR DEFECT-FREE, MEET YOUR REQUIREMENTS, OR THAT ANY DEFECTS WILL BE CORRECTED; AND
-
-WE CANNOT AND DO NOT REPRESENT OR WARRANT THAT THE PLATFORM IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
-
+(A) THE PLATFORM IS MADE AVAILABLE ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT ANY WARRANTIES OR REPRESENTATIONS OF ANY KIND, AND WE EXPRESSLY DISCLAIM ALL WARRANTIES AND REPRESENTATIONS RELATING TO THE PLATFORM (WHETHER EXPRESS OR IMPLIED), INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT, WHETHER ARISING BY LAW, COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE OF TRADE, OR OTHERWISE;
+(B) WE DO NOT REPRESENT OR WARRANT THAT THE PLATFORM IS RELIABLE, CURRENT, ERROR-FREE, OR DEFECT-FREE, MEET YOUR REQUIREMENTS, OR THAT ANY DEFECTS WILL BE CORRECTED; AND
+(C) WE CANNOT AND DO NOT REPRESENT OR WARRANT THAT THE PLATFORM IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
 YOU UNDERSTAND THAT TOKENS AND DISTRIBUTED LEDGER TECHNOLOGY ARE NEW AND UNTESTED TECHNOLOGIES OUTSIDE OF OUR CONTROL AND ADVERSE CHANGES IN MARKET FORCES OR TECHNOLOGY WILL EXCUSE OUR PERFORMANCE UNDER THESE TERMS.
-
-TRANSACTIONS USING DISTRIBUTED LEDGER TECHNOLOGY ARE AT RISK OF MULTIPLE POTENTIAL FAILURES, INCLUDING HIGH NETWORK VOLUME, COMPUTER FAILURE, DISTRIBUTED LEDGER
-FAILURE OF ANY KIND, USER FAILURE, COIN THEFT, AND NETWORK HACKING. WE ARE NOT RESPONSIBLE FOR ANY LOSS OF DATA, COINS, HARDWARE, OR SOFTWARE RESULTING FROM ANY TYPE OF FAILURE, THEFT, OR HACK.
-
+TRANSACTIONS USING DISTRIBUTED LEDGER TECHNOLOGY ARE AT RISK OF MULTIPLE POTENTIAL FAILURES, INCLUDING HIGH NETWORK VOLUME, COMPUTER FAILURE, DISTRIBUTED LEDGER FAILURE OF ANY KIND, USER FAILURE, COIN THEFT, AND NETWORK HACKING. WE ARE NOT RESPONSIBLE FOR ANY LOSS OF DATA, COINS, HARDWARE, OR SOFTWARE RESULTING FROM ANY TYPE OF FAILURE, THEFT, OR HACK.
 LIMITATION OF LIABILITY
 The Company cannot accept responsibility for any damage, loss, delay, or inconvenience caused by circumstances beyond its reasonable control, such as Force Majeure Event.
-
 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW:
+(I) IN NO EVENT WILL THE COMPANY OR ANY OF THE COMPANY PERSONNEL BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY LOSSES OR DAMAGES OF ANY KIND (INCLUDING, BUT NOT LIMITED TO, WHERE RELATED TO LOSS OF REVENUE, INCOME OR PROFITS, DIMINUTION OF VALUE, LOSS OF USE OR DATA, LOSS OR DEPLETION OF GOODWILL, LOSS OF BUSINESS OPPORTUNITY, LOSS OF CONTRACT, DAMAGES FOR BUSINESS INTERRUPTION, LOSS OF ANTICIPATED SAVINGS, OR THE LIKE) ARISING OUT OF OR IN ANY WAY RELATED TO
+A.         THE PLATFORM AND ITS USE OR OF ITS FUNCTIONALITIES.
 
-IN NO EVENT WILL THE COMPANY OR ANY OF THE COMPANY PERSONNEL BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY LOSSES OR DAMAGES OF ANY KIND (INCLUDING, BUT NOT LIMITED TO, WHERE RELATED TO LOSS OF REVENUE, INCOME OR PROFITS, DIMINUTION OF VALUE, LOSS OF USE OR DATA, LOSS OR DEPLETION OF GOODWILL, LOSS OF BUSINESS OPPORTUNITY, LOSS OF CONTRACT, DAMAGES FOR BUSINESS INTERRUPTION, LOSS OF ANTICIPATED SAVINGS, OR THE LIKE) ARISING OUT OF OR IN ANY WAY RELATED TO
+B.         A BREACH OF THE REGULATORY FRAMEWORK APPLICABLE TO THE USER'S SITUATION.
 
-THE PLATFORM AND ITS USE OR OF ITS FUNCTIONALITIES.
-A BREACH OF THE REGULATORY FRAMEWORK APPLICABLE TO THE USER'S SITUATION.
-ANY RELIANCE ON, OR DECISION MADE BASED ON, INFORMATION OR MATERIAL PROVIDED ON THE APPLICATION.
-ANY ACTS, OMISSIONS, STATEMENTS OR REPRESENTATIONS OF ANY THIRD PARTY.
-THE FAILURE OF THE APPLICATION TO OPERATE IN A CONSISTENT MANNER, NOTABLY AS A RESULT OF A DOWNTIME, AND THE CORRELATED INABILITY FOR THE USER TO USE ITS FUNCTIONALITIES.
+C.         ANY RELIANCE ON, OR DECISION MADE BASED ON, INFORMATION OR MATERIAL PROVIDED ON THE APPLICATION.
+
+D.         ANY ACTS, OMISSIONS, STATEMENTS OR REPRESENTATIONS OF ANY THIRD PARTY.
+
+E.         THE FAILURE OF THE APPLICATION TO OPERATE IN A CONSISTENT MANNER, NOTABLY AS A RESULT OF A DOWNTIME, AND THE CORRELATED INABILITY FOR THE USER TO USE ITS FUNCTIONALITIES.
 
 REGARDLESS OF THE FORM OF ACTION, WHETHER BASED IN CONTRACT, TORT (INCLUDING, BUT NOT LIMITED TO, SIMPLE NEGLIGENCE, WHETHER ACTIVE, PASSIVE OR IMPUTED), OR ANY OTHER LEGAL OR EQUITABLE THEORY (EVEN IF THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF WHETHER SUCH DAMAGES WERE FORESEEABLE); AND
-
-IN NO EVENT WILL THE AGGREGATE LIABILITY OF COMPANY AND THE COMPANY PERSONNEL (JOINTLY), WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE, WHETHER ACTIVE, PASSIVE OR IMPUTED), OR OTHER THEORY, ARISING OUT OF OR RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE PLATFORM, EXCEED CHF 100.
-
+(II) IN NO EVENT WILL THE AGGREGATE LIABILITY OF COMPANY AND THE COMPANY PERSONNEL (JOINTLY), WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE, WHETHER ACTIVE, PASSIVE OR IMPUTED), OR OTHER THEORY, ARISING OUT OF OR RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE PLATFORM, EXCEED CHF 100.
 THE LIMITATIONS SET FORTH IN THIS SECTION WILL NOT LIMIT OR EXCLUDE LIABILITY FOR THE GROSS NEGLIGENCE, FRAUD OR INTENTIONAL, WILLFUL OR RECKLESS MISCONDUCT OF THE COMPANY.
-
 Representations and Warranties
 By the Company
 
 THE PLATFORM IS PROVIDED "AS IS" AND "AS AVAILABLE" WITH THE CUSTOMARY DUTY OF CARE. IN ADDITION, THE COMPANY DOES NOT MAKE ANY REPRESENTATION, WARRANTY, OR GUARANTEE REGARDING THE RELIABILITY, TIMELINESS, QUALITY, SUITABILITY, OR AVAILABILITY OF THE PLATFORM OR THE SERVICES, OR THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE.
 
 YOU AGREE THAT THE ENTIRE RISK ARISING OUT OF YOUR USE OF THE PLATFORM REMAINS SOLELY WITH YOU.
+
 THE COMPANY DOES NOT MAKE ANY REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE WITH RESPECT TO THE PLATFORM OR ITS SERVICES, OR THE ABILITY OF ANYONE TO PURCHASE OR USE ANY OF THE PRODUCTS OFFERED THROUGH THE PLATFORM, INCLUDING TOKENS.
 
 WITHOUT LIMITING THE FOREGOING, THE COMPANY DOES NOT REPRESENT OR WARRANT THAT THE PROCESS OF ACCESSING SALES OR PLACING ORDERS IN THE STORE WILL BE UNINTERRUPTED OR ERROR-FREE.
@@ -459,92 +638,109 @@ THE USER IS FULLY LIABLE FOR ANY POSSIBLE MISREPRESENTATIONS.
 
 By registering on the Platform, you represent and warrant that:
 
-You have read and understood these Terms.
+(a) You have read and understood these Terms.
 
-You have the necessary legal capacity, authority, and valid consent to accept these Terms, to enter into a binding agreement with the Company and to perform the obligations set out herein.
+(b) You have the necessary legal capacity, authority, and valid consent to accept these Terms, to enter into a binding agreement with the Company and to perform the obligations set out herein.
 
-You are acting on your own behalf.
+(c) You are acting on your own behalf.
 
-You are not located in a Restricted Jurisdiction, and so is any person having a direct or indirect beneficial interest in you ;
+(d) You are not located in a Restricted Jurisdiction, and so is any person having a direct or indirect beneficial interest in you ;
 
-The acceptance of these Terms shall not result in any breach of, conflict with, or constitute a material default under
+(e) The acceptance of these Terms shall not result in any breach of, conflict with, or constitute a material default under
 
-any laws, regulations or rules applicable to you;
-any provision of your constitutional or organizational documents (in the case of a corporate entity including, without limitation, any company or partnership);
-any provision of any judgment, decree or order imposed on you by any court or governmental or regulatory authority; and/or
-any material agreement, obligation, duty, or commitment to which you are a party or by which you are bound.
+●          any laws, regulations or rules applicable to you;
 
-The execution and delivery of, and performance under these Terms require no approval or other action from any governmental authority or person other than you.
+●          any provision of your constitutional or organizational documents (in the case of a corporate entity including, without limitation, any company or partnership);
 
-You have sufficient knowledge and experience in business matters, including a sufficient understanding of blockchain technology, cryptographic tokens and smart contracts, storage mechanisms (such as digital or token wallets), blockchain-based software systems and blockchain technology, to be able to evaluate the risks and merits of using the Services which rely thereon upon,
+●          any provision of any judgment, decree or order imposed on you by any court or governmental or regulatory authority; and/or
 
-You are able to bear the risks associated with the Services, and any liability to the Company and others for your acts and omissions, including with limitation those constituting a breach of these Terms, negligence, fraud or willful misconduct.
+●          any material agreement, obligation, duty, or commitment to which you are a party or by which you are bound.
 
-You have obtained sufficient information about the Company, the Platform, the Services as well as the laws and regulations applicable to your situation at the occasion of your use thereof, to make an informed decision to use the Platform, including by having consulted any expert deemed necessary to perfect your knowledge about the applicable laws and regulations, such as for instance a legal, tax or any other advisor or auditor.
-You will comply with any applicable tax obligations in your jurisdiction that may be relevant to your use of the Services and the purchases made on this occasion.
+(f) The execution and delivery of, and performance under these Terms require no approval or other action from any governmental authority or person other than you.
 
-You will not use the Platform to finance, engage in, or otherwise support any criminal or illegal activity, including, but not limited to, money laundering and financing terrorism.
+(i) You have sufficient knowledge and experience in business matters, including a sufficient understanding of blockchain technology, cryptographic tokens and smart contracts, storage mechanisms (such as digital or token wallets), blockchain-based software systems and blockchain technology, to be able to evaluate the risks and merits of using the Services which rely thereon upon,
 
-You acknowledge and agree to the disclaimers and liability limitations set forth in these Terms.
+(j) You are able to bear the risks associated with the Services, and any liability to the Company and others for your acts and omissions, including with limitation those constituting a breach of these Terms, negligence, fraud or willful misconduct.
 
-You represent and warrant that you do not intend to submit any orders through the Platform for an amount representing a meaningful or substantial proportion of your wealth or net worth.
+(k) You have obtained sufficient information about the Company, the Platform, the Services as well as the laws and regulations applicable to your situation at the occasion of your use thereof, to make an informed decision to use the Platform, including by having consulted any expert deemed necessary to perfect your knowledge about the applicable laws and regulations, such as for instance a legal, tax or any other advisor or auditor.
 
-The funds you use to place orders through the Platform are not derived from or related to any unlawful activities, including but not limited to money laundering or terrorist financing under any applicable anti-money laundering rules.
+(l) You will comply with any applicable tax obligations in your jurisdiction that may be relevant to your use of the Services and the purchases made on this occasion.
 
-You will provide to the Company, immediately upon request, information, and documents that the Intermediary, in its sole discretion, deems necessary or appropriate to maintain compliance with any federal, state, local, domestic, or foreign law, regulation or policy, including any KYC/AML requirements and policies or any judicial process.
+(m) You will not use the Platform to finance, engage in, or otherwise support any criminal or illegal activity, including, but not limited to, money laundering and financing terrorism.
+
+(n) You acknowledge and agree to the disclaimers and liability limitations set forth in these Terms.
+
+(o) You represent and warrant that you do not intend to submit any orders through the Platform for an amount representing a meaningful or substantial proportion of your wealth or net worth. 
+
+(p) The funds you use to place orders through the Platform are not derived from or related to any unlawful activities, including but not limited to money laundering or terrorist financing under any applicable anti-money laundering rules.
+
+(q) You will provide to the Company, immediately upon request, information, and documents that the Intermediary, in its sole discretion, deems necessary or appropriate to maintain compliance with any federal, state, local, domestic, or foreign law, regulation or policy, including any KYC/AML requirements and policies or any judicial process.
 
 INDEMNIFICATION
+
 To the fullest extent permitted by applicable law, you will indemnify, defend and hold harmless the Company and its respective past, present and future employees, officers, directors, contractors, consultants, equity holders, suppliers, vendors, service providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns from and against all actual and threatened claims, lawsuits, demands, actions, investigations (whether formal or informal), liabilities, obligations, judgments, damages, penalties, interests, fees, losses, expenses (including attorneys’ fees and expenses), and costs (including, without limitation, court costs, costs of settlement, and costs of pursuing indemnification and insurance), of every kind and nature whatsoever, whether known or unknown, foreseen or unforeseen, matured or unmatured, or suspected or unsuspected, in law or equity, whether in tort, contract, or otherwise arising from or relating to:
 
-Your use of the Platform,
+(i) Your use of the Platform,
 
-Your responsibilities or obligations under these Terms,
+(ii) Your responsibilities or obligations under these Terms,
 
-Your violation of these Terms or any other applicable terms,
+(iii) Your violation of these Terms or any other applicable terms,
 
-any inaccuracy in any representation or warranty made by you; and/or
+(iv) any inaccuracy in any representation or warranty made by you; and/or
 
-any act or omission by you, that is negligent, unlawful or constitutes willful misconduct.
+(v) any act or omission by you, that is negligent, unlawful or constitutes willful misconduct.
 
 The Company reserves the right to exercise sole control over the defence, at your expense, of any claim subject to indemnification under this Section. This indemnity is in addition to, and not in lieu of, any other indemnities set forth in a written agreement between you and the Company.
 
 SHUTDOWN
 The Company reserves the right to shut down the Platform without any obligation to indemnify any User to the maximum extent permitted by law.
-
 The Company may notably proceed to a shutdown in the following cases:
-
-Upon the occurrence of any Force Majeure Event, and
-
-If any law, regulation, rule or decision of any self-regulatory organization, or ordinance, whether domestic or international, becomes effective which substantially alters the Company’s ability to offer the Platform hereunder.
-
+A.         Upon the occurrence of any Force Majeure Event, and
+B.         If any law, regulation, rule or decision of any self-regulatory organization, or ordinance, whether domestic or international, becomes effective which substantially alters the Company’s ability to offer the Platform hereunder.
 TAXES
 The Company is not responsible for withholding, collecting, reporting, or remitting any sales, use, value added, or similar tax arising from your activity as conducted through the Platform.
-
 You are responsible for determining what, if any, taxes apply to your use of the Platform and the Services, including, for example, sales, use, value added, and similar taxes, and for withholding, collection, reporting and remitting the correct taxes to the appropriate tax authorities.
-
 PERSONAL DATA PROTECTION
 The Company is collecting and processing Users’ data in accordance with and as set out in the privacy policy available at the following URL: https://music.gala.com/privacy-policy
 
 SEVERABILITY AND MODIFICATION OF THE TERMS
 These Terms can be amended from time to time and constitute the agreement between the Users and the Company concerning the Platform. The User’s continued use of the Platform after any amendment shall constitute his/her/its consent to such changes.
 
+ 
+
 The User agrees that, where lawful, all modifications or changes to these Terms shall take effect and be enforceable immediately upon posting unless otherwise indicated and, subject to applicable laws, any updated or edited version supersedes any prior versions immediately upon posting, and the prior version is of no continuing legal effect unless the revised version specifically refers to the prior version and explicitly states that the prior version (or portions thereof) will remain in effect.
+
+ 
 
 IF THE USER DOES NOT WISH TO BE BOUND BY THE REVISED TERMS, HE/SHE/IT SHALL CEASE USING THE PLATFORM.
 
+ 
+
 If any provision of these Terms is found to be invalid by a court of competent jurisdiction, that provision only will be limited to the minimum extent necessary, and the remaining provisions will remain in full force and effect.
+
+ 
 
 NO WAIVER
 Any failure by Company or any third party beneficiary to enforce a provision of these Terms shall not constitute a waiver of the Company’s or third-party beneficiaries right to do so in the future with respect to that provision, any other provision, or these Terms as a whole.
+
+ 
+
 ENTIRE AGREEMENT
 These Terms of Use set out all the terms and conditions set forth between you and Company and supersedes all other agreements relating to its subject matter of these Terms, whether written or oral. As referenced above, other terms and conditions governing use of the Platform and website are incorporated herein by reference, including the Privacy Policy.
+
 
 ASSIGNMENT
 The User may not assign,transfer or delegate in whole or part, any of his/her/its rights, licenses, or obligations under these Terms. Any attempt at assignment by the User shall be void.
 
+ 
+
 The Company may assign or delegate, in whole or part, its rights, licenses, and obligations under these Terms without limitation.
+
+ 
 
 GOVERNING LAW AND JURISDICTION
 These Terms shall be governed by the laws of Switzerland.
+
+ 
 
 Any dispute regarding these Terms shall be subject to the exclusive jurisdiction of the Courts of the Canton of Vaud, Switzerland.
