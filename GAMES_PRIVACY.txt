@@ -1,6 +1,6 @@
 Privacy Policy
 
-Modified: September 14, 2022
+Modified: September 25, 2023
 
 This Privacy Policy, as amended or otherwise changed from time to time (this “Privacy Policy”), explains the manner in which Blockchain Game Partners, Inc., dba Gala Games its subsidiaries, parent companies, affiliates, and other corporate entities under common ownership including, but not limited to, all websites that link this Privacy Policy (“GALA”, “we“, “us“, or “our“) collects, uses, maintains and discloses user information obtained through its websites, applications, brands, services and products (collectively, “Services”). Whenever you access or use the Services, you accept the terms and conditions of this Privacy Policy. If you do not agree with or you are not comfortable with any aspect of this Privacy Policy, you should immediately discontinue access or use of the Services.
 
@@ -29,12 +29,14 @@ If you provide us feedback or contact us via e-mail, message chat or similar fun
 Transactional information when you request information or purchase a product or service from us.
 We also collect other types of Personal Data that you provide to us voluntarily when seeking support services, such as email, information submitted via online form, video conferencing service information, other contact information, or other information provided to support services staff.
 We may collect other data, including but not limited to, referral URLs, your location, blockchain analytics information related to blockchain addresses you provide.
+
 Some information is collected automatically by our servers:
 
 Our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (“IP”) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit.
 As is true of most websites, we gather certain information automatically and store it in log files. This information includes IP addresses, browser type, Internet service provider (“ISP”), referring/exit pages, operating system, date/time stamp, and clickstream data.
 Like many online services, we use cookies to collect information. “Cookies” are small pieces of information that a website sends to your computer’s hard drive while you are viewing the website.
 We retain information on your behalf, such as transactional data and other session data linked to your Account.
+
 How We Use Your Information
 
 We will only use your Personal Data when the law allows.
@@ -52,14 +54,18 @@ send you administrative e-mail notifications, such as Account activity, transact
 identify, prevent, and report potentially suspicious, fraudulent, or illegal activities;
 notify you about important changes to our Terms and Conditions or Privacy Policy; and respond to your inquiries or other requests.
 We use IP addresses to make our website and Services more useful to you, and to perform identity verification.
+
 All data collected automatically will be used to administer or improve our Services.
 
 We use IP addresses to make our website and Services more useful to you, and to perform identity verification.
 We use information from log files to analyze trends, administer the Services, track users’ movements around the Services, gather demographic information about our user base as a whole, and better tailor our Services to our users’ needs. Except as noted in this Privacy Policy, we do not link this automatically-collected data to Personal Data.
 We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience with our Services. This type of information is collected to make the Services more useful to you and to tailor the experience with us to meet your special interests and needs.
+
 We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content and navigation of our Services. We reserve the right to use Anonymous Data and aggregated and other de-identified information for any purpose and disclose Anonymous Data to third parties in our sole discretion.
 
 GALA does not sell user data to any third party.
+
+We may collect data that is necessary to identify, examine, and prevent fraud, cheating and other violations of our Terms and Conditions and applicable laws ("Violations"). This data is used only to identify, examine, and prevent Violations. Such data will be retained for the minimum amount of time required to fulfill this purpose. If the data shows that Violations have occurred, we will retain the data further to establish, exercise, or defend any legal claims during the applicable statute of limitations or until the legal case or a related legal case has been resolved. This data may not be disclosed to you if such disclosure will adversely affect our efforts to identify, examine, and prevent Violations.
 
 Retention of Personal Data.
 
@@ -73,6 +79,7 @@ The destruction procedure and method are as follows:
 
 Personal Data printed on paper: shredded with a shredder or incinerate
 Personal Data stored in electronic file format: Deleted using a technical method that cannot reproduce the record.
+
 Marketing
 
 We strive to provide you with choices regarding certain Personal Data uses, particularly around marketing and advertising. We have established the following Personal Data control mechanisms:
@@ -90,7 +97,8 @@ We disclose your Personal Data as described below and as described elsewhere in 
 It may be necessary to disclose your Personal Data to comply with any legal obligation, to defend or investigate any illegal or suspected violations of GALA’s Terms and Conditions, to enforce our Terms and Conditions and this Privacy Policy, or to protect the rights, safety, and security of GALA, our users, or the public.
 We may share your Personal Data with third party service providers to provide you with the Services; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and to verify your identity. These third party service providers are required not to use your Personal Data other than to provide the services requested by you.
 We may share some or all of your Personal Data with third parties (e.g. the purchaser or new owner) in connection with or during negotiation of any merger, financing, acquisition or dissolution transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Data may also be transferred as a business asset. If another company acquires GALA assets, that company will possess the Personal Data collected by GALA and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.
-Our Services may contain links to other third party websites which are regulated by their own privacy policies. GALA is not responsible for the privacy policies of these third party websites even if they were accessed using the links from our Services.
+
+Our Services may contain links to other third party or external affiliates’ websites, extensions, and resources which are regulated by their own privacy policies. GALA is not responsible for the privacy policies of these third party websites even if they were accessed using the links from our Services. We do not have any control or authority over the contents of those sites, extensions or resources provided by third parties or external affiliates, and accept no liability for any losses caused by them, if you access or use any of the third-party links, extensions or resources. It is solely at your own risk and you will be subject to third parties’ separate terms and conditions of use.
 
 Other than as stated in this Privacy Policy, GALA does not disclose any of your Personal Data to third parties unless required to do so by law enforcement, court order, or in compliance with legal reporting obligations.
 
@@ -100,11 +108,13 @@ We may share your Personal Data within GALA and other companies that assist in p
 
 Contractual Obligation: Where transfers are necessary to satisfy our obligation to you under our EULA, including to provide you with our services and customer support services, and to optimize Gala Games; and
 Consent: where you have consented to the transfer of your Personal Data to a third country.
+
 Whenever we transfer your Personal Data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:
 
-We will only transfer your Personal Data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see European Commission: Adequacy of the protection of personal data in non-EU countries.
-We may use specific contracts approved by the European Commission which give Personal Data the same protection it has in Europe. For further details, see European Commission: Model contracts for the transfer of personal data to third countries.
-In respect of transfers to entities in the US, we may transfer Personal Data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US. For further details, see European Commission: EU-US Privacy Shield.
+We will only transfer your Personal Data to countries that have been deemed to provide an adequate level of protection for personal data by the European Commission. For further details, see European Commission: Adequacy Decisions
+We may use specific contracts approved by the European Commission which give Personal Data the same protection it has in Europe. For further details, see European Commission: EU Standard Contractual Clauses
+In respect of transfers to entities in the US, we may transfer Personal Data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US. For further details, see European Commission: EU-US Data Transfers
+
 Please contact us if you want further information on the specific mechanism used by us when transferring your Personal Data out of the EEA. If you wish to be informed about what Personal Data we hold and want it removed from our systems, please contact us at support@gala.games
 
 Updating Information
@@ -177,6 +187,7 @@ This applies where we are relying on consent to process your Personal Data. Howe
 
 If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
+
 If you wish to exercise any of the rights set out above, please contact us at privacy@gala.games.
 
 Accessing your Information
@@ -195,6 +206,7 @@ the right to know, by way of our Privacy Policy and any specific inquiries you d
 the right, subject to certain exceptions, to have your personal information deleted from our possession or control; and
 right to opt-out from the sale of your Personal Data. As described in the section above, we do not sell Personal Data and have not done so in the past 12 months.
 right to not be discriminated against for exercising your rights under the CCPA.
+
 California Civil Code Section 1798.83 permits California residents who use our website to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, or if you have any questions or concerns about your California privacy rights, our Privacy Policy, or our use of your personal information, please send an e‐mail to privacy@gala.games.
 
 For all California residents, any such inquiries shall be responded to within forty-five (45) days.  We must verify your identity with respect to such inquiries.  Depending on the nature of the Personal Information at issue, we may require additional measures or information from you as part of that verification.
@@ -207,6 +219,6 @@ Unfortunately, if you’re under 18, you cannot use our Services without parenta
 
 Contact Us
 
-If you have any queries or complaints about our collection, use or storage of your Personal Data, or if you wish to exercise any of your rights in relation to your personal information, please contact our Data Protection Officer (“DPO”) at privacy@gala.games or 680 S Cache Street, Suite 100, Jackson, WY 8300, Attn: Legal Department. We will investigate and attempt to resolve any such complaint or dispute regarding the use or disclosure of your Personal Data.
+If you have any queries or complaints about our collection, use or storage of your Personal Data, or if you wish to exercise any of your rights in relation to your personal information, please contact our Data Protection Officer (“DPO”) at privacy@gala.games or 1309 Coffeen Avenue STE 11110, Sheridan, WY 82801, USA, Attn: Legal Department. We will investigate and attempt to resolve any such complaint or dispute regarding the use or disclosure of your Personal Data.
 
 Based on the applicable laws of your country, you may have a right to request access to the Personal Data we collect from you, change, or delete the Personal Data. To request the review, update or removal of your Personal Data, please contact privacy@gala.games.
