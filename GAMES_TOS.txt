@@ -2,7 +2,7 @@ Terms and Conditions
 
  
 
-Latest Update: December 19th, 2023
+Latest Update: February 1st, 2024
 
  
 
@@ -186,7 +186,7 @@ Transaction Limits – User understands and acknowledges that Users use of the S
 
 Transactional Limits:
 
-Single Transaction: $5,000
+Single Transaction: $5,500
 
  
 
