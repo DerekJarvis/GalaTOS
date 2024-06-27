@@ -2,7 +2,7 @@ Terms and Conditions
 
  
 
-Latest Update: March 19th, 2024
+Latest Update: June 26, 2024
 
  
 
@@ -75,6 +75,8 @@ GALA GAMES shall not be responsible for any losses or damages resulting from a s
 1.5.10. For initial signup for the GALA App, all Users need to provide a valid email address and password. If a User receives an award of any type from GALA GAMES, the User must, when and as requested, supply GALA GAMES with additional identification information to verify the User’s identity (“KYC Information”) to receive the award. User represents that GALA GAMES has permission to share information with our designated KYC Partners (“KYC Partners”) and all User KYC Information provided is true and accurate and shall immediately update such information in the User’s GALA App or by notice to GALA GAMES, upon any changes to such information. GALA GAMES reserves the right to terminate Users GALA App, withhold any award and/or suspend performance hereunder immediately on determining: (i) any User KYC Information is false, inaccurate, misleading or out of date and/or (ii) User does not get approved by the KYC Partner.
 
  1.5.11. The User may opt to purchase a 'Name Tag,' which allows the User to reserve a specific name, word, or phrase for future use within the application ('Name Tag'). It is the User's sole responsibility to ensure that the selected name, word, or phrase has the necessary trademark and copyright protections and that the User possesses all necessary rights for its use and exploitation as a Name Tag. The Company expressly disclaims any liability for infringement of third-party rights arising from the User's utilization of the Name Tag on the Platform.
+
+ 1.5.12. GALA may launch its games on Telegram. The User agrees to abide by the terms and conditions of Telegram and terms and conditions of Gala while accessing and using GALA games on the Telegram platform. GALA is not responsible for the availability, security, or functionality of the Telegram platform. The User understands and agrees that GALA shall not be liable for any losses or damages arising from the use of Telegram, including but not limited to, data breaches, platform unavailability, or other security incidents. The User acknowledges that their interactions on Telegram are governed by Telegram's terms of service, privacy policy, and any other applicable policies, and agrees to comply with all such terms and policies while using GALA games on Telegram.
 
  
 
