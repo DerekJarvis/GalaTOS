@@ -2,7 +2,7 @@ Terms and Conditions
 
  
 
-Latest Update: June 26, 2024
+Latest Update: July 30, 2024
 
  
 
@@ -162,7 +162,7 @@ POTENTIAL USERS OF NFTS OR DIGITAL REWARDS, INCLUDING BUT NOT LIMITED TO BITCOIN
 
  
 
-If User pays by credit card or certain other payment instruments, User may be provided with a third-party interface (hereinafter “Payment Processor”), to input, change, and update Users payment information to make payment. The processing of payments may be subject to the terms, conditions, and policies of the Payment Processors in addition to these  Terms and Conditions (https://stripe.com/en-br/legal/consumer (stripe.com)). All User rights and privileges with respect to Payment Processor are set out in the Payment Processor   Terms of Service . GALA has no liability for fiat transactions, all of which liability rests with Payment Processor. GALA is not a custodian for Users’ credit card or certain other payment instruments and is not responsible for the acts or omissions of the Payment Processor(s).
+If User pays by credit card or certain other payment instruments, User may be provided with a third-party interface (hereinafter “Payment Processor”), to input, change, and update Users payment information to make payment. The processing of payments may be subject to the terms, conditions, and policies of the Payment Processors in addition to these  Terms and Conditions (https://stripe.com/en-br/legal/consumer (stripe.com))(Coinflow Terms Of Service 07_06.docx (genesysgo.net) (coinflow.cash)). All User rights and privileges with respect to Payment Processor are set out in the Payment Processor   Terms of Service . GALA has no liability for fiat transactions, all of which liability rests with Payment Processor. GALA is not a custodian for Users’ credit card or certain other payment instruments and is not responsible for the acts or omissions of the Payment Processor(s).
 
  
 
