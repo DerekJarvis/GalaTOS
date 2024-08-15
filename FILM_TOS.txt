@@ -1,138 +1,495 @@
-TERMS AND CONDITIONS
-
 Terms and Conditions
 
-These Terms and Conditions constitute the User Agreement and Terms of Service (hereafter the “Terms & Conditions”) between https://gala.com/film (the “Platform”), Blockchain Game Partners dba Gala Games, (referred to collectively as “GALA” or the “Site”) and any person, customer, or entity (referred as the “User”) utilizing the Platform, and any products, features, and services provided thereon (“Platform Services”). These Terms & Conditions do not create any agency, partnership, or joint venture between GALA and User.
+Latest Update: April 9th, 2024
 
-By using the Platform or purchasing any Platform Assets or signing up for any associated websites, APIs, or mobile applications, the User acknowledges and agrees to these Terms & Conditions. These Terms & Conditions may be amended and updated from time to time with the revised versions being effective as of the date and time posted on the Platform Site. By accessing or using the Platform or purchasing a Platform Asset, you confirm and consent to any revised Terms & Conditions and all of the terms incorporated therein by reference. The User is expected and encouraged to review the Terms & Conditions periodically. If the User does not agree to any updated terms included in the Terms & Conditions, the User must not use the Platform or any related Platform services.
+These Terms and Conditions constitute the User Agreement and Terms of Service (hereafter the “Terms & Conditions”) between Blockchain Game Partners Inc. (referred to collectively as “GALA” or the “Site”) and any person, customer, or entity (referred as the “User”) utilizing the website or applications, GALA Blockchain, and any products, features, and services provided thereon (“GALA  Services”). These Terms & Conditions do not create any agency, partnership, or joint venture between GALA and User. By signing up for an account through GALA or any associated websites, APIs, or mobile applications, the User has read and consents to the Terms & Conditions. The User also agrees to GALA’s Privacy Policy and User Conduct. These Terms & Conditions may be amended and updated from time to time at the sole discretion of GALA. Revised versions will be considered effective as of the date and time posted on the GALA Site.
 
-THE USER UNDERSTANDS THAT DUE TO THE NATURE OF BLOCKCHAIN IT IS NOT REQUIRED TO CREATE AN ACCOUNT TO PURCHASE A PLATFORM ASSET AND AS SUCH UNDERSTANDS IF THE USER MAKES USE OF THE PLATFORM OR PLATFORM ASSETS IT IS BOUND BY THESE TERMS & CONDITIONS REGARDLESS OF WHETHER A CHECKBOX IS PROVIDED TO CONSENT.
+GALA SERVICES.
+GALA is a decentralized distributed application on a blockchain network, using smart contracts (each a “Smart Contract”) to enable its Users to own, buy, sell, transfer, and share unique digital rewards that can be interacted with on the GALA Site  through the GALA App.
 
-The User acknowledges and agrees it is subject to this Agreement, the Terms and Conditions of the Gala.Games site (https://app.gala.games/terms-and-conditions), and GALA’s Privacy Policy (https://app.gala.games/privacy-policy). Please refer to the Privacy Policy for information on how the Platform collects, uses, and shares personal information about the User, and how the User may opt out.
+1.1 GALA Film Node. GALA Film Node is a computer software and hardware system connected to GALA. The GALA Film Node supports blockchain film by maintaining the cryptography and confirming transactions on the GALA Blockchain through the GALA App. Used herein, “GALA Film Node” may represent either the node itself or a license the User obtains to run said node. The GALA Film Nodes when combined form the “GALA Film Node Network”.
 
-USER AFFIRMS THEY ARE OVER THE AGE OF 18, AS THE PLATFORM AND PLATFORM SERVICES ARE NOT INTENDED FOR CHILDREN UNDER THE AGE OF 18.
+1.2 GALA Blockchain. The GALA Blockchain allows each User to store items, characters, digital rewards, and other attributes on the GALA Blockchain public ledger that allows for decentralized, immutable record of ownership. Each User owns the non-fungible token (an “NFT”) for any of the in-Film items on the GALA Blockchain. When a User purchases, earns, or receives any NFT or digital reward the Smart Contract process, the User owns completely and outright the NFT and/or digital reward. For the avoidance of doubt, the User acknowledges and agrees that while the User may own an NFT or digital reward, the underlying embedded intellectual property rights may be subject to certain licensing requirements, and GALA can only convey such rights to Users so long as GALA holds a valid license to the intellectual property. If such license terminates, GALA, and by extension the User, may not have any rights to the underlying embedded intellectual property in the User's NFTs or Platform Assets, and the underlying embedded intellectual property may be changed or removed at GALA's determination.
 
-PLEASE READ THESE TERMS & CONDITIONS DILIGENTLY BEFORE USING THE PLATFORM. THESE TERMS & CONDITIONS WILL GOVERN YOUR USE OF THE PLATFORM, AND BY USING THE PLATFORM, YOU HEREBY AGREE AND CONFIRM THAT YOU UNDERSTAND AND ARE BOUND BY ALL OF THESE TERMS. IF YOU ARE ACCEPTING THESE TERMS ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE LEGAL AUTHORITY TO ENTER INTO A CONTRACT ON BEHALF OF SAID COMPANY OR LEGAL ENTITY AND HAVE THEREBY ACCEPTED THESE TERMS ON BEHALF OF THE SAME. IF YOU DO NOT AGREE TO THESE TERMS OR DO NOT HAVE THE AUTHORITY TO DO SO, YOU MAY NOT USE THIS PLATFORM.
+1.3 GALA Reward. Each User of any film on the GALA Blockchain or the Site or any film contained on the Site or associated websites, and associated GALA Film Node, may be able to earn or receive the GALA Reward. The “GALA Reward” consists of a representation of GALA token, or other film tokens and NFTs, reflected on the GALA Blockchain and/or GALA App and the Site, which may or may not be bridged to other blockchains (including but not limited to Ethereum) through a minting process solely at the option and action of the User. When referencing the NFTs on the platform themselves in the singular and not specifically as a part of the GALA Reward, the same shall be referred to herein as “Platform Asset.” The GALA Reward is a digital reward and not a Security Token. The GALA Reward is not being offered to investors and there is no Initial Coin Offering (ICO) to promote the GALA Reward. Like BTC (which is the digital reward generated from the Bitcoin blockchain), the GALA Reward is created through a unique blockchain protocol. Each User that participates in the GALA Blockchain protocol shall receive 100% of the User’s allocated GALA Reward and any other digital reward or NFT, which is deposited in the User’s GALA App. The GALA Reward, any NFT, and any other digital reward may reside solely within the GALA Blockchain, and may or may not have value.  GALA cannot, and does not, control whether any of the GALA Reward, any NFT, and any other digital reward has monetary value on any other blockchain.  On the GALA Blockchain, the Site, or any associated website, neither the GALA Reward nor NFT nor other digital reward may be exchanged for currency.
 
-1. PLATFORM SERVICES.
+1.4 Purchases. The Platform may provide Users with the ability to purchase Platform Assets (as defined below) through its Platform, Platform Auction (as defined below), or a means other than the Platform or Platform Auction. ANY PURCHASE OR SALE THAT YOU MAKE VIA THE PLATFORM, PLATFORM AUCTION, OR A MEANS OTHER THAN THE PLATFORM OR BY WAY OF PLATFORM AUCTION, OR ANY PRODUCTS, FEATURES, AND SERVICES CONTAINED PROVIDED THEREON, IS ENTIRELY AT YOUR OWN RISK, EVEN IF SAID PURCHASE CONTAINS PLATFORM ASSETS OR IS ON THE PLATFORM USING THE PLATFORM AUCTION. NEITHER THE PLATFORM NOR GALA WILL INDEMNIFY OR HOLD THE USER HARMLESS FOR SAID PURCHASE/AUCTION OR OWE ANY LEGAL DUTY OR OBLIGATION TO THE USER. USER BEARS THE FULL RESPONSIBILITY FOR VERIFYING THE IDENTITY, LEGITIMACY, AND AUTHENTICITY OF PLATFORM ASSETS PURCHASED ON THE PLATFORM VIA PLATFORM AUCTION OR ANY OTHER MEANS. GALA AND THE PLATFORM MAKE NO REPRESENTATIONS REGARDING THE IDENTITY, LEGITIMACY, OR AUTHENTICITY OF PLATFORM ASSETS. USER ALSO AGREES AND ACKNOWLEDGES THEY ARE SUBJECT TO THE LICENSING TERMS AND RESTRICTIONS ACCOMPANYING THE USE OF ANY PURCHASED PLATFORM ASSETS, INCLUDING BUT NOT LIMITED TO, RESTRICTIONS ON COMMERCIAL OR NON-COMMERCIAL USE (COLLECTIVELY THE “TERMS AND RESTRICTIONS”). USER IS SOLELY RESPONSIBLE FOR ABIDING BY THE TERMS AND RESTRICTIONS, AND GALA IS NOT LIABLE IN THE EVENT USER DOES NOT ABIDE BY THE TERMS AND RESTRICTIONS.
 
-1.1 GALA is a decentralized distributed application on a blockchain network, using smart contracts (each a “Smart Contract”) to enable its Users to own, buy, sell, transfer, and share unique digital rewards that can be interacted with on the Platform through the GALA App.
+ 
 
-Purchases. The Platform may provide Users with the ability to purchase Platform Assets (as defined below) through its Platform, Platform Auction (as defined below), or a means other than the Platform or Platform Auction. ANY PURCHASE OR SALE THAT YOU MAKE VIA THE PLATFORM, PLATFORM AUCTION, OR A MEANS OTHER THAN THE PLATFORM OR BY WAY OF PLATFORM AUCTION, OR ANY PRODUCTS, FEATURES, AND SERVICES CONTAINED PROVIDED THEREON, IS ENTIRELY AT YOUR OWN RISK, EVEN IF SAID PURCHASE CONTAINS PLATFORM ASSETS OR IS ON THE PLATFORM USING THE PLATFORM AUCTION. NEITHER THE PLATFORM NOR GALA WILL INDEMNIFY OR HOLD THE USER HARMLESS FOR SAID PURCHASE/AUCTION OR OWE ANY LEGAL DUTY OR OBLIGATION TO THE USER. USER BEARS THE FULL RESPONSIBILITY FOR VERIFYING THE IDENTITY, LEGITIMACY, AND AUTHENTICITY OF PLATFORM ASSETS PURCHASED ON THE PLATFORM VIA PLATFORM AUCTION OR ANY OTHER MEANS. GALA AND THE PLATFORM MAKE NO REPRESENTATIONS REGARDING THE IDENTITY, LEGITIMACY, OR AUTHENTICITY OF PLATFORM ASSETS. USER ALSO AGREES AND ACKNOWLEDGES THEY ARE SUBJECT TO THE LICENSING TERMS AND RESTRICTIONS ACCOMPANYING THE USE OF ANY PURCHASED PLATFORM ASSETS, INCLUDING BUT NOT LIMITED TO, RESTRICTIONS ON COMMERCIAL OR NON-COMMERCIAL USE (COLLECTIVELY THE “TERMS AND RESTRICTIONS”). USER IS SOLELY RESPONSIBLE FOR ABIDING BY THE TERMS AND RESTRICTIONS, AND GALA IS NOT LIABLE IN THE EVENT USER DOES NOT ABIDE BY THE TERMS AND RESTRICTIONS.
+1.4.1 Platform Assets refer to non-fungible tokens (“NFTs”) that are made available via Platform Auction on the Platform by GALA, created and implemented on the Ethereum network or other blockchain platform(s) that the Platform allows, by way of smart contract or otherwise
 
-1.2 Platform Assets. Platform Assets refer to non-fungible tokens (“NFTs”) that are made available via Platform Auction on the Platform by GALA, created and implemented on the Ethereum network or other blockchain platform(s) that the Platform allows, by way of smart contract or otherwise.
+1.4.2  Platform Auction. Platform Auction refers to the sale mechanism supported by the Platform in which Platform Assets are made available for purchase by Users. GALA reserves the right to publish a guide and/or rules surrounding the Platform Auction at any time (including, but not limited to, disclosure of odds related to any individual Platform Auction sale). Said rules, if created, will be incorporated into these Terms and Conditions by reference.
 
-1.3 Platform Auction. Platform Auction refers to the sale mechanism supported by the Platform in which Platform Assets are made available for purchase by Users. GALA reserves the right to publish a guide and/or rules surrounding the Platform Auction at any time (including, but not limited to, disclosure of odds related to any individual Platform Auction sale). Said rules, if created, will be incorporated into this Agreement by reference. All transactions via Platform Auction are initiated and fulfilled by ways of Wallet Extensions and decentralized blockchain technology. GALA incorporates by reference the Gala Music Website FAQs.
+1.5 GALA App
 
-2. OWNERSHIP RIGHTS AND LICENSE TO ACCESS/DISPLAY PLATFORM SERVICES AND PLATFORM ASSETS
+ 
 
-2.1 NFT Ownership. When a User purchases a Platform Asset, the User owns the underlying NFT completely for as long as the User owns the Platform Asset. Ownership of the NFT is mediated entirely by the smart contract and Ethereum Network (or any other applicable network): at no point may GALA seize, freeze, or otherwise modify the ownership of the Platform Asset. The User acknowledges and agrees that while the User may own a Platform Asset, the underlying embedded intellectual property rights may be subject to certain licensing requirements, and GALA may only convey such rights to Users so long as GALA holds a valid license to the intellectual property. GALA reserves the right to convey such rights and licenses as it is able at its discretion.  If such license terminates, GALA, and by extension the User, may not have any rights to the underlying embedded intellectual property in the User's owned Platform Asset, and the underlying embedded intellectual property may be changed or removed at GALA's determination.
+1.5.1. GALA App must be used through a supported web browser on either desktop or mobile device. GALA will provide each User with a GALA App. GALA will never take custody or control over any NFT, GALA Reward, or digital reward stored in a User’s GALA App. The GALA App does not store, send or receive any NFT or reward, but such transactions occur directly on the GALA Blockchain or other supported blockchains. Instead of the GALA App, the User may install and use any compatible digital app or electronic wallet provided by a third party company that safely connects to the GALA Blockchain. If the User is a current GALA wallet holder, the User will be able to connect to MetaMask wallet, however, the User’s original GALA wallet will not be usable on the platform. MetaMask and other electronic wallets allow the User to purchase, store, and engage in transactions using Ethereum cryptocurrency. Ethereum requires the payment of a transaction fee (“Gas fee”) for every transaction that occurs on Ethereum network. The User will need to pay a Gas fee for each transaction that occurs via MetaMask or any other similar third party company that provides an electronic wallet.  GALA neither owns nor controls Metamask, or any third party company, product or service that User may access, visit, or use. GALA will have no access or control over these payments or transactions, or ability to to reverse any payments or transactions.  GALA will be not liable for acts or omissions of Metamask, or any other such third parties, nor will GALA be liable for any damage that you may suffer as a result of your transactions or any other interactions with any such third parties. A User may be able to use the GALA App or other compatible wallet to send and receive any NFT or digital reward with other users of the GALA Blockchain. GALA does not offer any User the ability to exchange one form of currency for any other form of currency (fiat or digital). GALA App is not a custodian, exchange or money transmitter.
 
-2.2 Usage and Display Rights. Subject to the continued compliance with the terms and conditions (only where the Platform has the right to offer same AND for only as long as the User still owns the Platform Asset), the User is granted with a worldwide, non-exclusive, non-transferable, royalty-free license to use and display the IP embedded in and underlying the Platform Asset solely for the following purposes: (1) for the User’s personal, non-commercial use; (2) as a part of the Platform Auction that allows for the purchase and sale of Platform Assets or on the Platform itself (if applicable), or; (3) as the party of a third-party marketplace or application that allows the User to transfer its User’s Platform Asset and permits the inclusion, involvement, or participation of the Platform Asset.
+ 
 
-2.3 Limitation on Rights. The User agrees and acknowledges the User’s rights in the underlying intellectual property embedded in the Platform Asset may be restricted. By way of example only, an NFT with an embedded song may allow users to listen to the song, but does not allow the User to license the song for use in a motion picture or television series. The User understands and agrees that it is the User’s sole responsibility to understand what rights the User has in any Platform Asset at all times, whether detailed on the Smart Contract, Platform, GALA store page, any Gala Website, or any other linked or referenced sales or informational sites. The User further acknowledges and agrees that the User’s rights in the underlying embedded intellectual property are limited to the rights actually conveyed to GALA by the underlying intellectual property holder, and the User does not outright own the underlying intellectual property embedded in any Platform Asset.
+1.5.2. When a User creates a GALA App, the GALA Blockchain software generates a cryptographic private key and public key pair that the User must use to send and receive any NFT or digital reward supported on the GALA Blockchain. The User is solely responsible for storing, outside of GALA’s Services, a backup of any User’s GALA App, private key(s), or transaction information that the User maintains in the GALA App or otherwise with the GALA Services. If the User does not backup the GALA App, the User may not be able to access the GALA in the event that GALA discontinues some or all of the GALA Services.
 
-3. GALA SERVICES.
+ 
 
-3.1 Gala Nodes. The Gala Games Node, Gala Film Node, and Gala Music Node are common names for the Gala Node software (Gala nodes collectively the “GALA Node Network”). The Gala Node software, when combined with a purchased license, allows the Node Operator to operate specific module(s) for the decentralized GALA Node Network. The specific license(s) used to operate the node software allows the operator's hardware to perform various types of work.
+1.5.3. In order for a transaction to be validated on the GALA Blockchain, any GALA transaction through the GALA App must be confirmed and recorded in the distributed ledger associated with the GALA Blockchain. The GALA Blockchain is a decentralized, peer-to-peer network supported by the users of the GALA Blockchain, which is not owned, controlled or operated by GALA.
 
-3.2 GALA Blockchain. The GALA Blockchain stores items, characters, digital rewards, and other data as a public ledger that allows for decentralized, immutable record of ownership. Each User owns the fungible tokens and non-fungible tokens (“NFT”) for their items on the GALA Blockchain. When a User purchases, earns, or receives any NFT or digital reward, the User owns the NFT and/or digital reward. For the avoidance of doubt, the User acknowledges and agrees that while the User may own a Platform Asset, the underlying embedded intellectual property rights may be subject to certain licensing requirements, and GALA can only convey such rights to Users so long as GALA holds a valid license to the intellectual property. If such license terminates, GALA, and by extension the User, may not have any rights to the underlying embedded intellectual property in the User's owned Platform Asset, and the underlying embedded intellectual property may be changed or removed at GALA's determination.
+ 
 
-3.3 GALA Reward. Each User of the GALA Blockchain, Platform, or Platform Services, may be able to earn or receive the GALA Reward. The “GALA Reward” consists of a representation of GALA token, or other music or game tokens and NFTs, reflected on the GALA Blockchain and/or GALA App and the Site, which may or may not be bridged to other blockchains (including but not limited to Ethereum) through a minting process solely at the option and action of the User.  When referencing the NFTs on the platform themselves in the singular and not specifically as a part of the GALA Reward, same shall be referred to herein as “Platform Asset.” The GALA Reward is a digital reward and not a Security Token. The GALA Reward is not being offered to investors and there is no Initial Coin Offering (ICO) to promote the GALA Reward. Like BTC (which is the digital reward generated from the Bitcoin blockchain), the GALA reward is created through a unique blockchain protocol. The GALA Reward, any NFT, and any other digital reward may reside solely within the GALA Blockchain, and may or may not have value. GALA cannot, and does not, control whether any of the GALA Reward, any NFT, and any other digital reward has monetary value on any other blockchain.  On the GALA Blockchain, the Site, or any associated website, neither the GALA Reward nor NFT nor other digital reward may be exchanged for currency.
+1.5.4. GALA has no control over any NFT or digital reward (including the GALA Reward) generated through the GALA Blockchain or the GALA App or Site, and cannot ensure that any transaction details a User submits via the GALA Services and GALA App or Site will be confirmed or processed on the GALA Blockchain. The User agrees and understands that the transaction details submitted by the User via the GALA Services and GALA App may not be completed or may be delayed by the GALA Blockchain or any supporting blockchain used to process the transaction. GALA does not guarantee that the GALA App can transfer title or right in any NFT or digital reward, and GALA makes no warranties of title of any kind. Once transaction details have been submitted to the GALA Blockchain, GALA cannot assist the User to cancel or otherwise modify such transaction or details.
 
-4. SERVICE LIMITATIONS AND MODIFICATIONS
+ 
 
-4.1 Service Limitations. We use reasonable efforts to keep the Platform and any associated services operational and to provide you with an immersive audio experience. However, our service offerings and their availability may change from time to time, without liability to you; for example the Platform may experience temporary interruptions due to technical difficulties, maintenance or testing, or updates, including those required to reflect changes in relevant laws and regulatory requirements.
+1.5.5. In the event of a fork of the GALA Blockchain or any other supported blockchain, GALA may not be able to support the User’s activity related to GALA or any other supported NFT or reward. The User agrees and understands that in the event of a fork of the GALA Blockchain, any transaction associated with the GALA App, GALA Site or GALA Services may not be completed, may be partially completed, incorrectly completed, or substantially delayed. GALA is not responsible for any loss incurred by any User caused in whole or in part, directly or indirectly, by a fork of the GALA Blockchain.
 
-4.2 Service Modifications. We aim to evolve and improve the Platform constantly, and we may modify, suspend, or stop (permanently or temporarily) providing all of part of the Platform (including particular functions, features, subscription plans, and promotional offerings).
+ 
 
-4.3 No Obligation. GALA has no obligation to provide any specific content through the Platform.
+1.5.6. With respect to the GALA App, GALA does not receive or store a User’s GALA App password, or any keys, network addresses or transaction history. GALA cannot assist any User with GALA App password retrieval. The User is solely responsible for remembering, storing and keeping secret the User’s GALA App PIN (password), keys and address. Any NFT or digital reward a User has stored within its GALA App may become inaccessible if the User does not know or keep secret its GALA App keys and PIN. Any third party with knowledge of one or more of a User’s credentials (including, without limitation, a backup phrase, App identifier, PIN, or keys) can dispose of the NFT or digital rewards in the User’s GALA App.
 
-5. ACCOUNT REGISTRATION AND COMMUNICATION
+ 
 
-5.1 Registration. Should an account ever be required, the User represents and warrants that all information provided by the User in the creation of an account is true and accurate at the time of account creation. The User represents and warrants that should said information change, the User shall immediately update as necessary. The User agrees that it will not create a second account while its first account remains in existence, that it will not buy, sell or lease its account, share its account, or connect its account with an unauthorized third-party site, person, or otherwise.
+1.5.7. GALA does not currently charge a fee for the GALA App, receiving, sending, or storing GALA. However, GALA reserves the right to do so in the future, and in such case any applicable fees will be displayed prior to the User incurring such fee. Notwithstanding, the GALA Blockchain may have Blockchain Transaction Fees required to transact NFT or digital reward transactions through the GALA Blockchain. GALA may attempt to calculate for the User any Blockchain Transactions Fees, though such calculation may be inaccurate or excessive. The User may select a greater or lesser fee, and the User is solely responsible for paying any Blockchain Transaction Fees required on the GALA Blockchain. GALA will neither advance nor fund any Blockchain Transaction Fee on any User’s behalf, nor be responsible for any excess or insufficient fee calculation.
 
-5.2 Changes in Registration Requirements. At any time, GALA may change the requirements based on applicable law, regulation, or for any other reason. As such, GALA may ask the User for additional information and/or documentation. Should the User fail to reply in a timely manner and/or fail to provide the desired information and/or documentation within a timeframe to be determined by GALA at GALA’s discretion, GALA may temporarily suspend the User’s account or the ability to engage in transactions on the User’s account, until the request is fulfilled, at GALA’s discretion.
+ 
 
-5.3 Communications. We may provide disclosures and notices required by law and other information about your Platform account to you electronically by posting it on our website, pushing notifications through the Platform, or emailing it to the email address listed in your Platform account or that you otherwise provided to GALA. Electronic disclosures and notices have the same meaning and effect as if we had provided you with paper copies. Such disclosures and notices are considered received by you within twenty-four (24) hours of the time posted to our website or within twenty-four (24) hours of the time emailed to you unless we receive notice that the email was not delivered. If you wish to withdraw your consent to receiving electronic communications, contact support. If we are unable to support your request, you may need to terminate your Platform account.
+1.5.8.  From time to time, there may be programs in place to allow User to receive a reward, in the form of GALA Reward, NFT, or otherwise, based on actions taken by the User, whether it be by referral or other program in place at the time (“Additional Rewards”).  User understands that GALA makes no representations or warrants regarding the Additional Rewards.  Notwithstanding or limiting the foregoing, GALA further makes no representations or warrants surrounding the operation of any GALA Services or that said GALA Services/Additional Rewards will be error-free or uninterrupted.  User accepts the sole responsibility for taking any and all actions to obtain any Additional Rewards, and holds GALA harmless for any opportunity cost or losses that occur as a result of the non-receipt of anticipated Additional Rewards, monetary or otherwise.
 
+1.5.9. Each User is permitted to have one (1) GALA App, unless an exception set forth herein applies. The sole exception to permitting a User to have more than one (1) GALA App is if the User is utilizing an additional GALA App for asset security purposes. For the avoidance of doubt,  no more than one (1) GALA App shall be permitted for any other reason, including but not limited to, use in promotions and/or events, for personal gain, or frailest purposes.
 
-6. ADDITIONAL REWARDS. Gala Film may, from time to time allow User to receive a reward, in the form of Gala Reward, NFT, or otherwise, based on actions taken by the User, whether it be by referral or other program in place at the time (“Additional Rewards”). Such Additional Rewards may take the shape of an internal bonus, affiliate code, or agreement with an affiliate that requires the User to accept the affiliate terms and conditions to participate. Gala Film shall, in its sole discretion, and with no notice, be permitted to choose if, how and when any referral bonus may be offered to the User. User understands that GALA makes no representations or warrants regarding the Additional Rewards. Notwithstanding or limiting the foregoing, GALA further makes no representations or warrants surrounding the operation of any GALA Services or that said GALA Services/Additional Rewards will be error-free or uninterrupted. User accepts the sole responsibility for taking any and all actions to obtain any Additional Rewards, and holds GALA harmless for any opportunity cost or losses that occur as a result of the non-receipt of anticipated Additional Rewards, monetary or otherwise.
+If a User creates more than one (1) GALA App for any reason other than the sole exception stated herein GALA reserves the right to suspend User from the GALA App. Should GALA Film determine, in its sole discretion, that a User, directly or indirectly, holds, accesses or controls more than one GALA App, all of said User GALA Apps, including User’s original GALA App, may be frozen pending investigation. Upon completion of the investigation, GALA may determine, in its sole discretion, to terminate the Users GALA App and User from GALA Platform. In addition, upon completion of the investigation, GALA may, in its sole discretion, permit the User to keep multiple GALA Apps or consolidate GALA Apps. When an GALA App is frozen, the User may be prohibited from performing any transactions via the GALA App.
 
-6.1 By sharing your unique referral code, you understand and agree to provide an FTC disclosure “clearly and conspicuously” where legally required.
+GALA shall not be responsible for any losses or damages resulting from a suspension and/or termination of a Users account for violating the Terms and Conditions.
 
-6.2 User acknowledges and agrees that Additional Rewards ARE NOT being sold as an investment by or of GALA. THE USER UNDERSTANDS THAT ANY REPRESENTATIONS MADE BY THE USER AT ANY TIME THAT ANY OF THE GALA SERVICES ARE AN INVESTMENT IN GALA (OR OTHERWISE, INCLUDING, BUT NOT LIMITED TO, IN GENERAL) TO OTHERS IN A DIRECT ATTEMPT TO MARKET GALA SERVICES IN COORDINATION WITH SUPPLYING USER’S REFERRAL LINK IS A DIRECT BREACH OF THE TERMS & CONDITIONS. A determination of same will be made at the sole discretion of GALA.
+1.5.10. For initial signup for the GALA App, all Users need to provide a valid email address and password. If a User receives an award of any type from GALA, the User must, when and as requested, supply GALA with additional identification information to verify the User’s identity (“KYC Information”) to receive the award. User represents that GALA has permission to share information with our designated KYC Partners (“KYC Partners”) and all User KYC Information provided is true and accurate and shall immediately update such information in the User’s GALA App or by notice to GALA, upon any changes to such information. GALA reserves the right to terminate Users GALA App, withhold any award and/or suspend performance hereunder immediately on determining: (i) any User KYC Information is false, inaccurate, misleading or out of date and/or (ii) User does not get approved by the KYC Partner.
 
-7. TERMINATION
+1.6  GALA LAUNCHER
 
-7.1. General. GALA may suspend or terminate the User’s access and use of Platform Services immediately and without notice if: (i) GALA determines the User’s use of the Platform Services poses a security risk to the Platform Services or any third-party, could adversely impact GALA or any other GALA users, or could subject GALA, its affiliates, or any third-party to liability, or could be fraudulent; (ii) the User is in breach of these Terms & Conditions; (iii) the User initiated a chargeback or dispute with respect to any payment or purchase of the Platform Services; (iv) the User has ceased to operate in the ordinary course, made an assignment for the benefit of creditors or similar disposition assets, or become the subject of any bankruptcy, reorganization, liquidation, dissolution or similar proceeding; (v) creates or lists false items; (vi) uses the Platform from a country sanctioned by the United States; (vi) Places misleading bids or offers; (vii) spam lists items, or; (v) for any other reason that GALA determines, at GALA’s sole discretion.
+ 
 
-7.2. Effect of Suspension or Termination. Should GALA suspend or terminate the User’s right to access or use of Platform Services, at any time and for any reason, neither GALA nor the Platform shall have any liability or obligation to the User. The User will not be entitled to any refund or other damages.
+The User understands and acknowledges that by downloading the application entitled “Gala Launcher” that it has read and understood and agrees to be bound to the Limited Software Warranty and License Agreement
 
-8. PUBLICITY
+Film Rights
+ 
 
-The User is permitted to publicly state that it is a customer or user of GALA, consistent with any Trademark Guidelines in which may be adopted by GALA from time to time. The User agrees to abide by the Privacy Policy and Code of Conduct of GALA.
+The Platform offers free access to the GALA Film Player (as defined below), a decentralized streaming service.
 
-9. REPRESENTATIONS AND WARRANTIES
+ 
 
-Each party represents and warrants that: (i) it has full power and authority to enter into these Terms & Conditions; and (ii) it will comply with all laws and regulations applicable to its provision or use of Platform Services.
+The catalog of content made available through the GALA Film Player contains films, digital content, television series, video recordings or documentaries, which may be sold as NFTs (which may be subsequently paired by Film Node owners, streamed on the Site, or any other form of distribution or exploitation.
 
-10. USER OBLIGATIONS
+ 
 
-10.1. Login Credentials. The User represents and warrants that the User is responsible for the preservation of confidentiality of the User’s login credentials on the Platform and any other login for the Platform. Login credentials generated for the User by the Platform are for the User’s use only. In addition, the User is strictly prohibited from selling, transferring, or sub-licensing them to any other entity or person. The User is solely responsible for preserving the confidentiality of the User’s Wallet Extension, private and public keys, and any other information required to import a Wallet Extension.
+GALA provides an online service which gives users the opportunity to select from various offerings of Digital Content (defined below), including but not limited to, (i) streaming film recordings and/or other Digital Content for viewing over a period of time ("Streaming Digital Content"); (ii) purchasing Film NFTs and/or other Digital Content for an indefinite period of time ("Purchased Digital Content"), (collectively, the "Digital Content"). Our service, the Digital Content, Film Content, our player for viewing the Digital Content (the "Film Player" or “GALA  Film Player”) and any other products, features, tools, materials, or other services (including third-party branded services) offered from time to time by Company through a variety of Access Points (defined below) are referred to collectively as the "Services." The term "Access Points" refers to, collectively, https://film.gala.com, applications, and other places where any Services are available, including websites and applications of GALA's third-party distribution partners and other websites where users or website operators are permitted to embed or have otherwise licensed the Film Player. Company may restrict or limit the specific manner in which User may access, stream, play, purchase download, or otherwise interact with Content made available on or through the Platform, or GALA may  impose a fee in order for User to access, stream, play, purchase, download, or otherwise interact with the Digital Content or Film NFTs.
 
-10.2. Blockchain Network Risk. The User represents and warrants that the User accepts all blockchain protocol and network risks, including instability, congestion, high transaction costs, network latency, information security, regulatory risk, and technological and operational error. The User understands these risks may result in delays or failure to process transactions and potentially high blockchain transaction fees or third-party fees. The User represents and agrees that the Platform (including GALA) is not responsible for any diminished Platform Services, related features, or capabilities resulting from blockchain network risk. In the event of a material increase or decrease to blockchain transaction fees, third-party fees, or operational degradation, congestion, failure, or other disruption of the blockchain network used by the User, GALA or the Platform may, at its sole discretion and upon notice to the User, make any adjustments to the Platform Services.
+Purchase and Rental Transactions; Cancellations. Except as described in this paragraph, all transactions for Purchased Digital Content and Streaming Digital Content are final, and we do not accept returns of such Digital Content.
 
-10.3. Blockchain Modification Risk. The User represents and warrants that the User is familiar with and accepts the risks associated with blockchain development and code changes. Blockchain technologies are still under development and may undergo significant changes over time. Blockchain contributors may make changes to the features and specifications of the algorithm selected by the User. Such modifications may include or result in the elimination of support for specific algorithms and applications.
+ 
 
-10.4. Trade Compliance. User shall comply with all applicable import, re-import, sanctions, anti-boycott, export, and re-export control laws and regulations, including all such laws and regulations that apply to European Union and U.S. companies, such as the Export Administration Regulations, the International Traffic in Arms Regulations, and economic sanctions programs implemented by the Office of Foreign Assets Control and the European Union’s Common Foreign and Security Policy (collectively, “Trade Sanctions Laws”). The User represents and warrants that the User and the User’s financial institutions, or any party that owns or controls the User or the User’s financial institutions, are not subject to sanctions or otherwise designated on any list of prohibited or restricted parties, including but not limited to the lists maintained by the United Nations Security Council, the U.S. Government (e.g., the Specially Designated Nationals List and Foreign as Evaders List of the U.S. Department of Treasury, and the Entity List of the U.S. Department of Commerce), the European Union or its Member States, or other applicable government authority.
+Limited License to Digital Content.
 
-10.5 Ownership Restrictions. User acknowledges and agrees that GALA, the Platform, any content creator, or third party contact provider (or, as applicable, any licensors) own all legal right, title, and interest in and to all elements of their respective intellectual property rights therein. The visual interfaces, graphics (including, without limitation, all art and drawings associated), design, systems, methods, information, computer code, software, services, “look and feel,” organization, a compilation of the content, code, data, and all other elements of any content provided on the Site, Gala.Games or the Platform are protected by copyright, trade dress, patent, trademark laws, international conventions, other relevant intellectual property and proprietary rights, and applicable laws. All such intellectual property is the property of its owners or licensors, and all trademarks, service marks, and trade names are proprietary to its owner or licensors. Except as expressly set forth herein, the use of the Platform Services and the Platform does not grant User any ownership of or any other rights with respect to any content, code, data, or other materials that you may access on or through the Platform.
+Subject to payment of any charges to rent, purchase, or access Digital Content, and your compliance with this Terms of Use Company grants you a non-exclusive, non-transferable, non-sublicensable, limited license, during the applicable viewing period, to access and view the Digital Content in accordance with the Usage Rules, for personal, non-commercial, private use. We may automatically remove Digital Content from your Compatible Device after the end of its viewing period.
 
-10.6 Responsibility for Conduct. The User takes responsibility for all activities that occur for its use of the Platform Services. The User accepts all risks of any authorized or unauthorized access to the Platform Services, to the maximum extent permitted by law. The User represents and warrants that the User is familiar with and accepts the risks associated with digital Apps and private keys, including the risks described herein. The User is solely responsible for its conduct while accessing or using the Platform Services and for any consequences thereof. The User agrees to use the Platform Services for purposes that are legal, proper, and in accordance with these Terms and any applicable laws or regulations. By way of example, and not as a limitation, the User may not, and may not allow any third-party to: (i) send, upload, distribute or disseminate any unlawful, defamatory, harassing, abusive, fraudulent, obscene, or otherwise objectionable content; (ii) distribute viruses, worms, defects, Trojan horses, corrupted files, hoaxes, or any other items of a destructive or deceptive nature; (iii) impersonate another person (via the use of an email address or otherwise); (iv) upload, post, transmit or otherwise make available through the Platform Services any content that infringes the intellectual proprietary rights of any party; (v) use the Platform Services to violate the legal rights (such as rights of privacy and publicity) of others; (vi) engage in, promote, or encourage illegal activity (including, without limitation, money laundering); (vii) interfere with other users’ enjoyment of the Platform or attempt to defraud other users on the Platform; (viii) exploit the Platform for any unauthorized commercial purpose (including, but not limited to the sale of fraudulent Platform Assets; (ix) modify, adapt, translate, or reverse engineer any portion of the Platform Services; (x) remove any copyright, trademark or other proprietary rights notices contained in or on the Platform or any part of it; (xi) reformat or frame any portion of the Platform; (xii) display any content on the Platform that contains any hate-related or violent content or contains any other material, products or services that violate or encourage conduct that would violate any criminal laws, any other applicable laws, or any third-party rights; (xiii) use any robot, spider, site search/retrieval application, or other device to retrieve or index any portion of the Platform or the content posted on the Platform, or to collect information about its users for any unauthorized purpose; or (xiv) create user accounts by automated means or under false or fraudulent pretenses.
+Availability of Purchased Digital Content.
 
-10.7 Representations Made By User. The User acknowledges and agrees that the Platform Assets ARE NOT being sold as an investment by, or of, Gala nor the Platform.
+Purchased Digital Content will generally continue to be available to you for purchase or streaming from the Service, as applicable, but may become unavailable due to potential content provider licensing restrictions or for other reasons, and Company will not be liable to you if Purchased Digital Content becomes unavailable for further purchasing or streaming.
 
-11. DISCLOSURES & RISKS
+Content Subjectivity. Content tends to elicit varying reactions among different people. You may come across Content that you find offensive, indecent, explicit or objectionable. Also, Content types, genres, categories, and descriptions are provided as suggestions to help with navigation, and Company does not guarantee that you will agree with them. You acknowledge these risks.
 
-11.1 Notification. GALA notifies each User of certain disclosures and risks associated with blockchain, NFTs, and cryptocurrency and their associated technology and protocols. Platform Services are not an investment product; under no circumstance, action, notice, communication by any means, or omission by GALA shall be understood or interpreted as such. GALA has no influence whatsoever on any blockchain integrated into the Gala Platform, the transactions, consensus protocols, NFTs, or Wallet Extensions. The ownership of an NFT or use of Platform Services does not represent or constitute any ownership right, stake, share, security, debt, or equivalent privileges. Also inclusive to the statement above, a User's ownership of NFTs does not include the right to receive any form of revenue from participation in or relating to any blockchain or digital reward, including the GALA Blockchain or GALA.
+Content Quality.
 
-11.2 NFTs. NFTs are not considered legal tender, are not issued or backed by any government, and have fewer regulatory protections than traditional currency. Moreover, NFTs are not insured against theft or loss by any insurance corporation or investor protection, including the Federal Deposit Insurance Corporation or the Securities Investor Protection Corporation.
+Company uses various technologies to provide you with an optimal viewing experience. That said, quality of Digital Content, including accuracy and intelligibility of the view, may be affected by the format of the Digital Content, your location, the speed and bandwidth of your internet service, and the devices used, among other factors. The time it takes you to begin playing Digital Content will vary based on a number of factors, including your location, internet bandwidth, the number of devices simultaneously connecting to the same network, the Digital Content you have selected, and the configuration of the device you are using. As a result, Company is unable to make any warranties about the Content in these respects.
 
-11.3 Market Risk. The value of NFTs is derived from supply and demand in the global marketplace, which can rise or fall independent of any government currency. Holding NFTs carries exchange rates and other types of risk. The value of NFTs may be derived from the continued willingness of market participants to exchange traditional government currency for NFTs, resulting in the potential for a permanent and total loss of value of a particular NFT should the market disappear. The volatility and unpredictability of the price and value of NFTs, relative to government currency may result in significant loss over a short period of time. GALA cannot guarantee or warrant the value of any NFT or blockchain, including the GALA Blockchain and Platform Assets, and explicitly warns the User that there is no reason to believe that any NFT or blockchain asset will increase in value, hold any value, decrease in value, or entirely lose value.
+Compatible Devices.
 
-11.4. Regulatory Risk. Legislative and regulatory changes or actions at the state, federal, or international level may adversely affect the use, transfer, exchange, and value of NFTs. The regulatory status of cryptographic tokens, digital assets, and blockchain technology is unclear or unsettled in many jurisdictions. It is difficult to predict how or whether governmental authorities will regulate such technologies. It is likewise difficult to predict how or whether any governmental authority may make changes to existing laws, regulations, and/or rules that will affect cryptographic tokens, digital assets, blockchain technology, and its applications. Such changes could negatively impact the Platform Services in various ways, including, for example, through a determination that any of the above are regulated financial instruments that require registration. GALA may cease any distribution of any of the above, the development of the Platform, or cease operations in a jurisdiction in the event that governmental actions make it unlawful or commercially undesirable to continue to do so. The industry in which GALA operates is new and may be subject to heightened oversight and scrutiny, including investigations or enforcement actions. There can be no assurance that governmental, quasi-governmental, regulatory, or other similar types of (including banking) authorities will not examine the operations of GALA and/or pursue enforcement actions against GALA. Such governmental activities may or may not be the result of targeting GALA in particular. All of this may subject GALA to judgments, settlements, fines, or penalties, or cause GALA to restructure its operations and activities or to cease offering certain products or services, all of which could harm GALA’s reputation or lead to higher operational costs, which may, in turn, have a material adverse effect on the Platform Services.
+In order to access the Services, you will need to use a computer, mobile device, streaming media player, or other device that meets the system and compatibility requirements that we establish from time to time (each, a “Compatible Device”). Please note that Compatible Devices may vary by Service, and may be subject to additional terms. Features and functionalities that we make available through the Services may also differ by Compatible Device and the terms of your subscription.
 
-11.5 Technology Risk. NFT and blockchain transactions may be irreversible, and losses due to fraudulent or accidental transactions may not be recoverable. In addition, some virtual transactions are deemed to be made when recorded on a public ledger, which may not necessarily be the date or time the user initiated the transaction. The nature of such virtual transactions may lead to an increased risk of fraud or cyber-attacks.
+Simultaneous Views.
 
-12. DISCLAIMER
+The number of simultaneous views of Digital Content that you can access varies by Service and may require device and account verification.
 
-EXCEPT AS EXPRESSLY PROVIDED FOR IN THESE TERMS & CONDITIONS, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, GALA, ITS AFFILIATES, AND ITS SUPPLIERS DO NOT MAKE ANY OTHER WARRANTY OF ANY KIND, WHETHER EXPRESSED, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR USE AND NON-INFRINGEMENT. GALA, ITS AFFILIATES, AND ITS SUPPLIERS ARE NOT RESPONSIBLE OR LIABLE FOR THE DELETION, FAILURE TO STORE, OR ANY LOSS OF ANY USER DATA, INCLUDING BLOCKCHAIN DATA, NFT, AND DIGITAL REWARDS DERIVED, MAINTAINED, OR TRANSMITTED THROUGH THE USE OF PLATFORM SERVICES. THE USER IS SOLELY RESPONSIBLE FOR SECURING ITS CUSTOMER DATA AND PLATFORM ASSETS. NEITHER GALA, ITS AFFILIATES, NOR ITS SUPPLIERS WARRANT THAT THE OPERATION OF PLATFORM SERVICES, GALA BLOCKCHAIN, OR ANY OTHER SUPPORTED BLOCKCHAIN WILL BE ERROR-FREE OR UNINTERRUPTED. GALA, ITS AFFILIATES, AND ITS SUPPLIERS ARE NOT RESPONSIBLE OR LIABLE FOR ANY LOSSES OR OPPORTUNITY COSTS RESULTING FROM BLOCKCHAIN NETWORK AND PROTOCOL OR THIRD-PARTY SOFTWARE ISSUES, WHICH MAY, IN TURN, RESULT IN THE INABILITY TO PROCESS TRANSACTIONS ON ANY BLOCKCHAIN AT ALL OR WITHOUT INCURRING SUBSTANTIAL FEES.
+Internet Service and Data Usage.
 
-13. LIMITATION OF LIABILITY
+In order to access the Services, you must have a high-speed broadband, wireless or similar internet connection from an internet service provider that meets certain technical specifications. Please note that multiple simultaneous streams, as well as HD and 4K Ultra HD Content, may require higher internet bandwidth. You are responsible for any costs associated with your internet service used to access the Services. Your use of the Services may count toward your data usage, depending on the terms of your agreement with your internet service provider.
 
-13.1. Limitation of Indirect Liability. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, GALA SHALL NOT BE LIABLE TO THE USER UNDER THESE TERMS & CONDITIONS FOR LOST REVENUES, OPPORTUNITY COSTS, OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, EVEN IF GALA KNEW OR SHOULD HAVE KNOWN THAT SUCH DAMAGES WERE POSSIBLE AND EVEN IF DIRECT DAMAGES DO NOT SATISFY A REMEDY. THIS LIMITATION OF LIABILITY DOES NOT APPLY TO VIOLATIONS OF GALA’S INTELLECTUAL PROPERTY RIGHTS, INDEMNIFICATION OBLIGATIONS, OR THE USER’S PAYMENT OBLIGATIONS.
+ 
 
-13.2. Limitation of Amount of Liability. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NEITHER GALA NOR ITS AFFILIATES OR SUPPLIERS MAY BE HELD LIABLE UNDER THESE TERMS & CONDITIONS FOR MORE THAN THE AMOUNT PAID BY THE USER TO GALA UNDER THESE TERMS & CONDITIONS FOR THE 12 MONTH PERIOD PRECEDING THE DATE THE CLAIM AROSE, MINUS ANY REWARDS GENERATED OR RECEIVED BY THE USER AS A RESULT OF THE USE OF GALA SERVICES.
+General Restrictions.
 
-14. INDEMNIFICATION
+You may not (i) reproduce, distribute, publicly display, or publicly  perform the Digital Content; (ii) transfer, copy or display the Digital Content, except as permitted in this Agreement; (iii) sell, rent, lease, distribute, or broadcast any right to the Digital Content; (iv) remove any proprietary notices or labels on the Digital Content; (v) attempt to disable, bypass, modify, defeat, or otherwise circumvent any digital rights management or other content protection system used as part of the Service; or (vi) use the Service or Digital Content for any commercial or illegal purpose. For the avoidance of doubt, Users do not have any ownership in the underlying copyright in the NFTs, unless there is a contractual agreement in regards to the specific rights between GALA and the User.
 
-Unless prohibited by applicable law, the User will defend and indemnify GALA and its Affiliates against any settlement amounts approved by the User and damages and costs finally awarded against the User and its affiliates by a court of competent jurisdiction in any formal legal proceeding filed by an unaffiliated third party before a court or government tribunal (including any appellate proceeding) to the extent arising from the User’s use of Platform Services.
+ 
 
-15. MISCELLANEOUS.
+PAYMENT TERMS.
+3.1. Annual License and Monthly Service Fees.
 
-15.1. Assignment. The User will not assign or otherwise transfer the User’s rights and obligations under these Terms & Conditions without the prior written consent of GALA, which may be unreasonably withheld. Any assignment or transfer in violation of this section will be void. At any time and without the need for the User’s consent, GALA may assign any obligation, right, and these Terms & Conditions. Subject to the foregoing, these Terms & Conditions will be binding upon and inure to the benefit of the parties and their respective permitted successors and assigns. The User may not merge these Terms & Conditions with any other agreements with which GALA may be a party.
+The User shall pay a one-time GALA Film Node license fee. GALA or any of its affiliates or third parties may be the party that sells the software or hardware for any GALA Film Node.
 
-15.2. Disputes. Any dispute, controversy, difference, or claim arising out of or relating to these Terms & Conditions or relating in any way to the User’s use of GALA sites or Platform Services, including the existence, validity, interpretation, performance, breach, or termination thereof or any dispute regarding non-contractual obligations arising out of or relating to these Terms & Conditions the parties may agree to first attempt mediation before a single mediator, administered by the International Centre for Dispute Resolution under its mediation rules, to be held in any location agreed to by the parties, or Wyoming in the English language. If the parties do not agree on mediation, the matter shall be referred to and finally resolved by arbitration before a single arbitrator to be held in Wyoming, USA, administered by the International Centre for Dispute Resolution in accordance with International Dispute Resolution Rules. The arbitrator’s decision is final and binding on the parties and enforceable in a court of competent jurisdiction. The User shall not be entitled to costs and reasonable attorneys’ fees for the arbitration. Notwithstanding the foregoing, GALA and the User agree that GALA may bring suit in any court of law to enjoin infringement or other misuses of GALA’s intellectual property rights. Any disputes that may arise beyond the scope of the arbitration provision shall be exclusively subject to the State or Federal Courts located in Wyoming. The User and GALA consent to personal jurisdiction in those courts. CLASS ACTION WAIVER: TO THE EXTENT PERMISSIBLE BY LAW, ALL CLAIMS MUST BE BROUGHT IN A PARTY’S INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, COLLECTIVE ACTION, OR REPRESENTATIVE PROCEEDING (COLLECTIVELY “CLASS ACTION WAIVER”). THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON’S CLAIMS OR ENGAGE IN ANY CLASS ARBITRATION. USER ACKNOWLEDGES THAT, BY AGREEING TO THESE TERMS, EACH PARTY WAIVES THE RIGHT TO A TRIAL BY JURY AND THE RIGHT TO PARTICIPATE IN A CLASS ACTION.
+3.2. Software License.
 
-15.3. Entire Agreement. These Terms & Conditions set out all the terms agreed between the parties and supersedes all other agreements relating to its subject matter. In entering into these Terms & Conditions, neither party has relied on, and neither party will have any right or remedy based on, any statement, representation, or warranty (whether made negligently or innocently), except those expressly set out in these Terms & Conditions. These terms may be updated on GALA sites.
+The User may be required to enter into a software license agreement with GALA or any third party for the use of any required software for each GALA Film Node. The User shall pay all associated software license fees.
 
-15.4. Force Majeure. GALA and its affiliates will not be liable for any failure or delay in performance of an obligation under these Terms & Conditions where the failures or delay results from any cause beyond reasonable control, including, but not limited to, acts of God, labor disputes, or other industrial disturbances, electrical or power outages, utilities or other telecommunications failures, earthquake, storms or other elements of nature, blockages, embargoes, riots, acts or orders of government, acts of terrorism, or war. Force Majeure events include, but are not limited to, upgrades to the validation rules of a given blockchain (e.g., a “hard fork” or “soft fork”).
+3.3. Equipment Purchase.
 
-15.5. Governing Law. Any claim or dispute between the User and GALA arising out of or relating to the User’s use of GALA sites, Platform Services, or these Terms & Conditions, in whole or in part, shall be governed by the laws of the State of California, USA, without respect to its conflict of laws provisions.
+The User may enter into an equipment purchase agreement as it relates to the purchase of any hardware for an GALA Film Node. The User is not required to purchase such hardware, but may use any equipment technology (e.g. computer, GPU, cell phone, or other technology) that can appropriately and safely access and connect to the GALA Blockchain.
 
-15.6. Language. All communications and notices made or given pursuant to these Terms & Conditions must be in English. If we provide a translation of the English language version of these Terms & Conditions, the English version will control any conflict.
+3.4. Maintenance and Hosting Fees.
 
-15.7. Notices to the User and GALA. GALA may provide any notice to the User under these Terms & Conditions by (i) posting a notice on the GALA Site or the Platform (including via changing the date on this page); or (ii) sending a message to the email address associated with the User’s account. Notices provided on the GALA Site or Platform will be effective upon posting. Notices provided by email will be effective when the email is sent. It is the User’s responsibility to keep the User’s email address current. To give GALA notice under these Terms & Conditions, the User must contact GALA by support@gala.games. GALA may update the address for notices by posting on the GALA Site or Platform.
+GALA does not maintain or host any GALA Film Node, but may refer the User to one or more third-party hosting companies that may or may not be affiliated with GALA. If the User elects and is part of a separate hosting agreement, the User may be required to pay certain data center operations, maintenance and power fees (“Maintenance Fees”).
 
-15.8. Severability. If any portion of these Terms & Conditions is deemed invalid or unenforceable, the remaining portions will remain in full force and effect.
+3.5. Blockchain Transaction Fees.
+
+The delivery and receipt of any of the User’s NFT or digital rewards through the GALA App may be subject to network or transaction fees charged by the blockchain associated with the User-selected algorithm (“Blockchain Transaction Fees”), which are non-refundable. Blockchain Transaction Fees are paid to emit, record, verify, and process a transaction on the blockchain. Any withdrawal or transfer of the User’s NFT or digital reward are subject to Blockchain Transaction Fees.
+
+3.6. Other Third-Party Fees.
+
+Certain digital apps, app addresses, tools, and third-party software and devices (“Third-Party Fees”) used by the User may also charge the User a fee, including a per transaction or transfer fee, which are non-refundable. The User is responsible for satisfying any such fee(s). The User should note that any such fees may significantly reduce the User’s rewards and therefore the User is responsible for managing the selection, use, rate and frequency of their receipt of rewards to any such Third-Party Fees.
+
+3.7. Taxes.
+
+The User is responsible for any taxes, and the User will pay for GALA Services without any reduction for taxes. If the User is required by law to withhold any taxes from its payments to GALA, the User must provide GALA with an official tax receipt or other qualified documentation to support such withholding, including value added tax (“VAT”), if applicable. The User will be liable to pay (or reimburse GALA) for any taxes, interest, penalties or fines which may arise from any mis-declaration made by the User. The User shall pay GALA for all taxes and governmental fees GALA is required to collect or pay upon sale or delivery of GALA Services.
+
+POTENTIAL USERS OF NFTS OR DIGITAL REWARDS, INCLUDING BUT NOT LIMITED TO BITCOIN, ARE FOREWARNED OF POSSIBLE FINANCIAL LOSS AT THE TIME SUCH REWARDS ARE EXCHANGED FOR FIAT CURRENCY DUE TO AN UNFAVORABLE EXCHANGE RATE. MOREOVER, A FAVORABLE EXCHANGE RATE AT THE TIME OF EXCHANGE MAY RESULT IN A TAX LIABILITY. USERS SHOULD CONSULT A TAX ADVISOR REGARDING ANY TAX CONSEQUENCES ASSOCIATED WITH THE PURCHASE, SALE, TRADE, RECEIPT OR OTHER USE OF DIGITAL REWARDS.
+
+3.8.  CREDIT CARD PURCHASES
+
+If User pays by credit card or certain other payment instruments, User may be provided with a third-party interface (hereinafter “Payment Processor”), to input, change, and update Users payment information to make payment. The processing of payments may be subject to the terms, conditions, and policies of the Payment Processors in addition to these  Terms and Conditions. All User rights and privileges with respect to Payment Processor are set out in the Payment Processor Terms of Service . GALA has no liability for fiat transactions, all of which liability rests with Payment Processor. GALA is not a custodian for Users’ credit card or certain other payment instruments and is not responsible for the acts or omissions of the Payment Processor(s).
+
+Users agree to pay GALA through the Payment Processor(s), all applicable fees and customer agrees and authorizes GALA and Payment Processor us to charge all sums including all applicable taxes to payment methods specified or linked to your account.
+
+When Users provide payment information to Payment Processor or to one of its payment processors, User represents that User is the authorized User of the card, PIN, key, or account associated with that payment, and User authorizes GALA and Payment Processor to charge User’s credit card or to process User’s payment with the chosen third-party payment processor for any payment, withdrawal, or fees incurred by you.
+
+FOR PAYMENTS IN CRYPTOCURRENCY: PAYMENT PROCESSOR ONLY SUPPORTS USDC.
+
+The User has read the Terms & Conditions and understands that by purchasing with a credit card, the item will not be claimed until at least fourteen (14) days from the date the purchase is completed.
+
+Transaction Limits – User understands and acknowledges that Users use of the Services is subject to a transactional limit in a given time period. Such limits may vary, at our sole discretion.
+
+Transactional Limits:
+
+Single Transaction: $5,500
+
+“Charge Backs”
+
+In the event of a charge back, GALA may, in its sole discretion, carry out one or more of the following actions:
+
+User will be temporarily auto banned
+
+User will not be eligible for daily distribution
+
+3.9 Refunds.
+
+All sales are final. GALA does not offer any refunds or money back guarantees on any or all GALA Services, unless otherwise specified herein. User recognizes and agrees that User will not be entitled to a refund for any purchase under any circumstances. THE COMPANY MAKES NO WARRANTIES REGARDING THE PERFORMANCE OR OPERATION OF THE WEBSITE or GALA Services.
+
+ USER OBLIGATIONS
+ 
+
+4.1. Software and Equipment Allocation.
+
+ 
+
+The User is responsible for the allocation of the User’s software and equipment and selected optimization decisions. The User acknowledges that GALA is not responsible for the selection or timing of blockchain protocols, nor is GALA responsible for the protocols selected for use in connection with GALA Services. The User is solely responsible for these decisions and shall monitor and allocate strategies through the User’s GALA App. The User acknowledges that the node transactions on any blockchain may vary and will not be uniform across each GALA Film Node.
+
+ 
+
+4.2. Log-in Credentials.
+
+ 
+
+The User represents and warrants that the User is responsible for the preservation of confidentiality of the User’s login credentials on the GALA App and any other login for the GALA Services. Login credentials generated for the User by GALA are for the User’s internal use only and the User is strictly prohibited from selling, transferring, or sub-licensing them to any other entity or person.
+
+ 
+
+4.3. Blockchain Network Risk.
+
+ 
+
+The User represents and warrants that the User accepts the risks of blockchain protocol and network, including instability, congestion, high transaction costs, hacking, network latency, information security, regulatory risk, and technological and operational error. The User understands these risks may result in delay or failure to process transactions and potentially high Blockchain Transaction Fees or Third Party Fees. The User represents and agrees that GALA is not responsible for any diminished GALA Services, related features, or capabilities resulting from blockchain network risk. In the event of a material increase or decrease to Blockchain Transaction Fees, Third Party Fees, or operational degradation, congestion, failure or other disruption of the blockchain network used by the User, GALA may, at its sole discretion and upon notice to the User, make any adjustments to the GALA Services.
+
+ 
+
+4.4. Blockchain Modification Risk.
+
+ 
+
+The User represents and warrants that the User is familiar with and accepts the risks associated with blockchain development and code changes. Blockchain technologies are still under development and may undergo significant changes over time. Blockchain contributors may make changes to features and specifications of the algorithm selected by the User, and may fork the GALA Blockchain protocol. Such changes may include or result in the elimination or support for specific algorithms and applications.
+
+ 
+
+4.5. Trade Compliance.
+
+ 
+
+User shall comply with all applicable import, re-import, sanctions, anti-boycott, export, and re-export control laws and regulations, including all such laws and regulations that apply to European Union and U.S. companies, such as the Export Administration Regulations, the International Traffic in Arms Regulations, and economic sanctions programs implemented by the Office of Foreign Assets Control and the European Union’s Common Foreign and Security Policy (collectively, “Trade Sanctions Laws”). The User represents and warrants that the User and the User’s financial institutions, or any party that owns or controls the User or the User’s financial institutions, are not subject to sanctions or otherwise designated on any list of prohibited or restricted parties, including but not limited to the lists maintained by the United Nations Security Council, the U.S. Government (e.g., the Specially Designated Nationals List and Foreign as Evaders List of the U.S. Department of Treasury, and the Entity List of the U.S. Department of Commerce), the European Union or its Member States, or other applicable government authority.
+
+ 
+
+4.6 Compliance with Local Laws and Regulations.
+
+ 
+
+User shall not attempt to purchase any GALA products restricted by local laws and regulations. GALA may from time to time geoblock or otherwise restrict access to this site as necessary to ensure compliance with laws and regulations. GALA is not responsible for any loss as a result of such compliance with local laws and regulations.
+
+ 
+
+4.7 Ownership Restrictions.
+
+ 
+
+User acknowledges and agrees that GALA, any developer, or third party contact provider (or, as applicable, any licensors) own all legal right, title and interest in and to all elements of their respective intellectual property rights therein. The visual interfaces, graphics (including, without limitation, all art and drawings associated with the), design, systems, methods, information, computer code, software, services, “look and feel”, organization, compilation of the content, code, data, and all other elements of any content provided on the Site, GALA App, or GALA Blockchain are protected by copyright, trade dress, patent, and trademark laws, international conventions, other relevant intellectual property and proprietary rights, and applicable laws. All such intellectual property are the property of its owners or licensors, and all trademarks, service marks, and trade names are proprietary to its owner or licensors. Except as expressly set forth herein, the use of the GALA Services and GALA App does not grant User any ownership of or any other rights with respect to any content, code, data, or other materials that you may access on or through the GALA App. When a User purchases or owns a Platform Asset, the User owns the underlying NFT completely for as long as the User owns the Platform Asset, subject to the terms and restrictions of this Agreement and any accompanying license restrictions for the Platform Asset. Ownership of the NFT is mediated entirely by the smart contract and Ethereum Network (or any other applicable network): at no point may GALA seize, freeze, or otherwise modify the ownership of the Platform Asset. The User acknowledges and agrees that while the User may own a Platform Asset, the underlying embedded intellectual property rights may be subject to certain licensing requirements, and GALA can only convey such rights to Users so long as GALA holds a valid license to the intellectual property. If such license terminates, GALA, and by extension the User, may not have any rights to the underlying embedded intellectual property in the User's owned Platform Asset, and the underlying embedded intellectual property may be changed or removed at GALA's determination.
+
+ 
+
+4.8 Children.
+
+ 
+
+USER AFFIRMS HE/SHE IS OVER THE AGE OF 18, AS THE GALA APP AND GALA SERVICES ARE NOT INTENDED FOR CHILDREN UNDER AGE 18.
+
+ 
+
+ 
+
+4.9 User Conduct.
+
+
+GALA values transparency and is committed to providing Users with the best experience levels. However, to protect GALA’s Users and comply with our legal obligations, GALA reserves the right to take action, with or without advance notice, if GALA believes the User has violated these Terms and Conditions. This may include but is not limited to: ban User; disable User ability to use the GALA Services in conjunction with buying NFTs available on GALA Site; disable User’s ability to access GALA Services; and/or other actions. Notwithstanding the foregoing, if User breaches this Section 4.9, User will not be entitled to a refund for any GALA Services.
+
+
+User agrees to not violate any law, contract, intellectual property or other third-party right, and that User is solely responsible for User's conduct and content, while accessing or using the GALA Services. User further agrees that User will not:
+
+(i) use or attempt to use another User’s Account without authorization from such User; (ii) pose as another person or entity, or use a wallet to engage in a transaction on GALA App that is owned or controlled, in whole or in part, by any other person; (iii)  confuse others, derive others’ goodwill, or otherwise engage in name squatting; (iv) access GALA Services from a different blockchain address and/or email address if GALA has blocked any of User’s other blockchain addresses and/or email addresses from accessing the GALA Services, unless User has GALA’s written permission first; (v) distribute spam or unsolicited messages, including but not limited to, sending unwanted NFTs to other Users; (vi) use the GALA Services – including but not limited to through disseminating any software or interacting with any API – that could damage, disable, overburden, or impair the functioning of the GALA Services in any manner; (vii) bypass or ignore instructions that control access to the GALA Services, including but not limited to, attempting to circumvent any rate limiting systems by using multiple API keys, directing traffic through multiple IP addresses, or otherwise obfuscating the source of traffic User sends to GALA; (viii) use GALA Services for commercial purposes inconsistent with these Terms and Conditions or any other instructions given by GALA in the present or future; (ix) use any data mining, robot, spider, crawler, scraper, script, browser extension, offline reader, or other automated means or interface not expressly authorized by GALA to access the GALA Services, extract data, or otherwise interfere with or modify the rendering of GALA  pages or functionality;(x) reverse engineer, duplicate, decompile, disassemble, or decode any aspect of the GALA Services, or any action that might discover source code or bypass or circumvent measures employed to prevent or limit access to any service, product, license, area, or code of the GALA Services; (xi) sell or resell the GALA Services in a manner that violates any law or contract, or in a way that attempts to circumvent any GALA fee systems or rules;(xii) use the GALA Services or data collected from GALA Services for any advertising or direct marketing activity (including without limitation, email marketing, SMS marketing, and telemarketing) without our express authorization and approval; (xiii) use the GALA Services for, or in connection with, money laundering, terrorist financing, or other illicit financial activity, or in any way in connection with the violation of any law or regulation that applies to User or to GALA; (xiv) use the GALA Services, directly or indirectly, for, on behalf of, or for the benefit of, (a) any natural or legal person that is the subject of Sanctions; (b) any natural or legal person located in, ordinarily resident in, or organized under the laws of, any Embargoed Jurisdiction; or (c) any legal person owned or controlled, directly or indirectly, by any natural or legal person located in, ordinarily resident in, or organized under the laws of, any Embargoed Jurisdiction; (xv) use the GALA Services to carry out any financial activities subject to registration or licensing, including but not limited to creating, offering, selling, or buying securities, commodities, options, or debt instruments; (xvi) user acknowledges that GALA does not offer any securities and User shall not use the GALA Services to create, sell, or buy NFTs or other items under the impression that it either gives owners or other Users rights to participate in an ICO or any securities offering, or that GALA Services are redeemable for securities, commodities, or other financial instruments; (xvii) use the GALA Services to engage in price manipulation, fraud, or other deceptive, misleading, or manipulative activity; (xviii) use the GALA Services to buy, sell, or transfer stolen items, fraudulently obtained items, items taken without authorization, and/or any other illegally obtained items; (xix) infringe or violate the intellectual property rights or any other rights of others; (xx) use the GALA Services for any illegal or unauthorized purpose, including creating or displaying illegal content, such as content that may involve unethical behavior, morally reprehensible actions, or encouraging or promoting any activity that violates these Terms and Conditions or any law, regulation or contract;(xxi) send, upload, distribute or disseminate any unlawful, defamatory, harassing, abusive, fraudulent, obscene, or otherwise objectionable content; (xxii) use the GALA Services in any manner that could interfere with, disrupt, negatively affect or inhibit other Users from fully enjoying the GALA Services; (xxiii) remove any copyright, trademark or other proprietary rights notices contained in or on the GALA App or GALA Blockchain or any part of it; (xxiv) reformat or frame any portion of the GALA App; (xxv) create user accounts by automated means or under false or fraudulent pretenses; (xxvi) trick, defraud, or mislead GALA or other Users, including but not limited to, for the purpose of attempting to learn sensitive account information; (xxvii) attempt to bypass any security measure of the Site; (xxviii) copy or adapt the Site; or, (xxix) disparage, tarnish, or otherwise harm, in GALA’s sole discretion, GALA and/or the Site.
+
+Notwithstanding the foregoing, it is in GALA’s sole discretion to determine if User has violated any of the above User Conduct guidelines.
+
+ 
+
+4.10 Representations Made By User.
+
+ 
+
+User acknowledges and agrees that the GALA Services, including but not limited to the Gala Film Node and GALA Reward, ARE NOT being sold as an investment by or of GALA.  THE USER UNDERSTANDS THAT ANY REPRESENTATIONS MADE BY THE USER AT ANY TIME THAT ANY OF THE GALA SERVICES ARE AN INVESTMENT IN GALA (OR OTHERWISE, INCLUDING, BUT NOT LIMITED TO, IN GENERAL) TO OTHERS IN A DIRECT ATTEMPT TO MARKET GALA SERVICES IN COORDINATION WITH SUPPLYING USER’S REFERRAL LINK IS A DIRECT BREACH OF THE TERMS & CONDITIONS. A determination of same will be made at the sole discretion of GALA.
+
+ 
+
+4.11  GALA Film NODE REPRESENTATIONS
+
+ 
+
+GALA and the User recognize that the SOLE AND ONLY purpose of the GALA Film Node is to support the GALA Film Node Ecosystem.  Nothing contained in this Agreement, exhibit to this Agreement, or any representation made outside of this Agreement, conveys on the User any ownership interests in GALA or its subsidiaries, or interests otherwise in the GALA (including, but not limited to voting rights in the GALA), nor any expectation of profits from the efforts of the GALA or its principals or subsidiaries.  The User understands that while it may from time to time receive rewards in line with the distribution schedule of the Node Ecosystem (“Distribution Rewards'') (subject to change), said reward is solely earned because of and as a direct result of work accomplished and performed by the User (i.e. work done by the GALA Film Node).  The User recognizes that should the User never actually run the GALA Film Node, it will receive no rewards.  GALA has no control of the method in which rewards are distributed to the GALA Film Node.  It is anticipated that the GALA Film Node will be able to be sold or transferred in the future as Non-Fungible Tokens, however, GALA cannot and does not warrant or represent that the resale value of the Nodes will be higher than the purchase price should this event occur, nor that it will be legally possible to do so.  Further, GALA cannot and does not warrant or represent that there will ever be a resale value or capability of the GALA Film Node.
+
+ 
+
+5. TERMINATION
+
+ 
+
+5.1. General.
+
+ 
+
+GALA may suspend or terminate the User’s right to access or use GALA Services immediately and without notice if: (i) GALA determines the User’s use of the GALA Services poses a security risk to GALA Services or any third party, could adversely impact GALA, GALA Services, GALA Blockchain or any other GALA users, or could subject GALA, its affiliates, or any third party to liability, or could be fraudulent; (ii) the User is in breach of these Terms & Conditions; (iii) the User initiated a chargeback or dispute with respect to any payment or purchase of the GALA Services; (iv) the User has ceased to operate in the ordinary course, made an assignment for the benefit of creditors or similar disposition assets, or become the subject of any bankruptcy, reorganization, liquidation, dissolution or similar proceeding; or (v) for any other reason at GALA’s discretion.
+
+ 
+
+5.2. Effect of Suspension.
+
+ 
+
+If GALA suspends the User’s right to access or use any portion or all of the GALA Services, the User shall remain responsible for all fees and charges the User incurs during the period of suspension, including any Maintenance Fees and Blockchain Transaction Fees; and the User may be in violation of the User’s hosting agreement or the blockchain protocols, which may prevent or limit the User’s entitlement or access to any results or rewards that may have occurred during the User’s suspension of the GALA Services. User agrees to pay any fee charged by GALA to reconnect the GALA Services.
+
+ 
+
+5.3. Effect of Termination.
+
+ 
+
+If GALA terminates the User’s right to access or use any portion or all of the GALA Services, then all of the User’s rights under these Terms & Conditions immediately terminate and the User shall remain responsible for all fees owed to GALA incurred through the termination date.
+
+ 
+
+5. GOVERNANCE
+
+ 
+
+5.1. Advisory Board. The GALA Blockchain may have an advisory board.
+
+ 
+
+5.2. Voting for GALA Blockchain Updates and Amendments. The GALA Blockchain may have voting protocols.
+
+ 
+
+5.3. Consensus Nodes. The GALA Blockchain may have consensus nodes, which are the GALA Film Nodes that approve and validate transactions, and contribute to the security and stability of the network. Any User that owns an GALA Film Node involved in the consensus protocol may be rewarded from the GALA Blockchain and be able to charge Blockchain Transaction Fees.
+
+ 
+
+5.4. Community and Decentralized Innovation. The GALA Blockchain invites any person or entity throughout the world to contribute to the GALA Blockchain, including coders, application developers, marketers, advertisers, and service and maintenance providers. Accepted amendments, updates, and innovation from individuals or groups of the GALA Blockchain community may be rewarded from the GALA Blockchain rewards.
+
+ 
+
+6. PUBLICITY
+
+ 
+
+The User is permitted to state publicly that it is a customer or user of GALA, consistent with any Trademark Guidelines which may be adopted by GALA from time to time. The User agrees to abide by the Privacy Policy and Code of Conduct of GALA.
+
+ 
+
+7. REPRESENTATIONS AND WARRANTIES
+
+ 
+
+Each party represents and warrants that: (i) it has full power, legal capacity,  and authority to enter into these Terms & Conditions; and (ii) it will comply with all laws and regulations applicable to its provision or use of GALA Services. If User provides any information that is untrue, inaccurate, not current, or incomplete, GALA has the right to suspend or terminate User’s account and refuse any and all current or future use of the GALA Services.
+
+ 
+
+USER ACKNOWLEDGES AND AGREES THAT USER DOES NOT RESIDE IN ANY REGION THAT EXPLICITLY BANS THE USE OF LOOT BOXES IN FILM IN ACCORDANCE WITH GAMBLING LAWS.
+
+ 
+
+8. DISCLOSURES & RISKS
+
+ 
+
+8.1 Notification. GALA notifies each User of certain disclosures and risks associated with blockchain NFT and digital rewards and their associated technology and protocols. GALA Services are not an investment product, and no action, notice, communication by any means, or omission by GALA shall be understood or interpreted as such. GALA has no influence whatsoever on the GALA Blockchain, the transactions and consensus protocols, or the NFTs or digital rewards, including the GALA Reward. Ownership of a GALA App or Film Node or the use of GALA Services does not represent or constitute any ownership right or stake, share or security, debt or equivalent right, or any right to receive any future revenue or form of participation in or relating to any blockchain or digital reward, including the GALA Blockchain or GALA Reward.
+
+ 
+
+8.2 Digital Rewards. Digital rewards are not considered legal tender, are not issued or backed by any government, and have fewer regulatory protections than traditional currency. Moreover, digital rewards are not insured against theft or loss by any insurance corporation or any investor protection, including the Federal Deposit Insurance Corporation or the Securities Investor Protection Corporation.
+
+ 
+
+8.3 Market Risk. The value of NFTs and digital rewards are derived from supply and demand in the global marketplace, which can rise or fall independent of any government currency. Holding NFTs and digital rewards carries exchange rate and other types of risk. The value of NFTs and digital rewards may be derived from the continued willingness of market participants to exchange traditional government currency for digital rewards, which may result in the potential for permanent and total loss of value of a particular digital reward should the market disappear. The volatility and unpredictability of the price and value of NFTs and digital rewards, relative to government currency, may result in significant loss over a short period of time. GALA cannot guarantee or warrant the value of any NFT, digital reward or blockchain, including the GALA Blockchain and GALA Reward, and explicitly warns the User that that there is no reason to believe that any NFT or blockchain reward will increase in value, and that they may hold no value, decrease in value, or entirely lose value.
+
+ 
+
+8.4. Regulatory Risk. Legislative and regulatory changes or actions at the state, federal, or international level may adversely affect the use, transfer, exchange, and value of virtual NFTs and blockchain rewards.  The regulatory status of cryptographic tokens, digital assets and blockchain technology is unclear or unsettled in many jurisdictions. It is difficult to predict how or whether governmental authorities will regulate such technologies. It is likewise difficult to predict how or whether any governmental authority may make changes to existing laws, regulations and/or rules that will affect cryptographic tokens, digital assets, blockchain technology and its applications.  Such changes could negatively impact the GALA Services in various ways, including, for example, through a determination that any of the above are regulated financial instruments that require registration. GALA may cease any distribution of any of the above, the development of the GALA Film platform or cease operations in a jurisdiction in the event that governmental actions make it unlawful or commercially undesirable to continue to do so.  The industry in which GALA operates is new, and may be subject to heightened oversight and scrutiny, including investigations or enforcement actions. There can be no assurance that governmental, quasi-governmental, regulatory or other similar types of (including banking) authorities will not examine the operations of GALA and/or pursue enforcement actions against GALA. Such governmental activities may or may not be the result of targeting GALA in particular. All of this may subject GALA to judgments, settlements, fines or penalties, or cause GALA to restructure its operations and activities or to cease offering certain products or services, all of which could harm GALA’s reputation or lead to higher operational costs, which may in turn have a material adverse effect on the GALA Services.
+
+ 
+
+8.5 Technology Risk. Virtual NFT and digital reward transactions may be irreversible and losses due to fraudulent or accidental transactions may not be recoverable. Some virtual transactions are deemed to be made when recorded on a public ledger, which may not necessarily be the date or time the user initiated the transaction. The nature of such virtual transactions may lead to an increased risk of fraud or cyber-attacks.
+
+ 
+
+8.6 Changes to GALA Film Node Network.
+
+ 
+
+GALA and User recognize that from time to time amendments will be made to the GALA Film Node Network.  GALA and User both specifically agree that GALA will, from time to time, present the GALA Film Node Network with proposed amendments (the “Proposed Amendments'') that the Node Network will then vote on whether to implement or not (the “Governance Vote”).  The User understands that the Proposed Amendments will be made at the discretion of GALA, and GALA owes the User no duty or obligation to make proposals in its best interests.  The User specifically understands that there may come a time when GALA proposes an amendment that is not in or in direct opposition to the User’s best interests, financial or otherwise (including, but not limited to a change in the distribution calculation), and the User has no legal recourse against GALA should any Proposed Amendment be approved and implemented through the Governance Vote.  The User’s only recourse is to vote against said Proposed Amendment.  GALA and the User both agree that one such Proposed Amendment may be to change the specifications, including, but not limited to the internet connection, Random Access Memory, Central Processing Unit requirements, extra space, and any other requirements needed to run the Nodes (the “Specifications”).  GALA and User further agree that while the Specifications may be minimal on the effective date of this Agreement, this is subject to change through the Proposed Amendment and the Governance Vote.  While GALA does represent and covenant that the GALA Film Node will always be able to be run using the current specifications, GALA does not and cannot represent or covenant that any rewards earned (financial or otherwise) for doing so are not subject to change.
+
+ 
+
+9. DISCLAIMER
+
+ 
+
+EXCEPT AS EXPRESSLY PROVIDED FOR IN THESE TERMS & CONDITIONS, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, GALA, ITS AFFILIATES, AND ITS SUPPLIERS DO NOT MAKE ANY OTHER WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR USE AND NON-INFRINGEMENT. GALA, ITS AFFILIATES, AND ITS SUPPLIERS ARE NOT RESPONSIBLE OR LIABLE FOR THE DELETION, FAILURE TO STORE, OR ANY LOSS OF ANY USER DATA, INCLUDING BLOCKCHAIN DATA, NFT AND DIGITAL REWARDS DERIVED, MAINTAINED, OR TRANSMITTED THROUGH USE OF GALA SERVICES. THE USER IS SOLELY RESPONSIBLE FOR SECURING ITS CUSTOMER DATA AND DIGITAL REWARDS. NEITHER GALA, ITS AFFILIATES, NOR ITS SUPPLIERS, WARRANTS THAT THE OPERATION OF GALA SERVICES, GALA BLOCKCHAIN, OR ANY OTHER SUPPORTED BLOCKCHAIN WILL BE ERROR-FREE OR UNINTERRUPTED. GALA, ITS AFFILIATES, AND ITS SUPPLIERS ARE NOT RESPONSIBLE OR LIABLE FOR ANY LOSSES OR OPPORTUNITY COSTS RESULTING FROM BLOCKCHAIN NETWORK AND PROTOCOL OR THIRD-PARTY SOFTWARE ISSUES, WHICH MAY IN TURN RESULT IN THE INABILITY TO PROCESS TRANSACTIONS ON ANY BLOCKCHAIN AT ALL OR WITHOUT INCURRING SUBSTANTIAL FEES.
+
+ 
+
+10. LIMITATION OF LIABILITY
+
+ 
+
+10.1. Limitation of Indirect Liability.
+
+ 
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, GALA AND THE USER SHALL NOT BE LIABLE UNDER THESE TERMS & CONDITIONS FOR LOST REVENUES, OPPORTUNITY COSTS, OR INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, EVEN IF GALA KNEW OR SHOULD HAVE KNOWN THAT SUCH DAMAGES WERE POSSIBLE AND EVEN IF DIRECT DAMAGES DO NOT SATISFY A REMEDY. THIS LIMITATION OF LIABILITY DOES NOT APPLY TO VIOLATIONS OF GALA’S INTELLECTUAL PROPERTY RIGHTS, INDEMNIFICATION OBLIGATIONS, OR THE USER’S PAYMENT OBLIGATIONS.
+
+ 
+
+10.2. Limitation of Amount of Liability.
+
+ 
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NEITHER GALA NOR ITS AFFILIATES OR SUPPLIERS, MAY BE HELD LIABLE UNDER THESE TERMS & CONDITIONS FOR MORE THAN THE AMOUNT PAID BY THE USER TO GALA UNDER THESE TERMS & CONDITIONS FOR THE 12 MONTH PERIOD PRECEDING THE DATE THE CLAIM AROSE, MINUS ANY REWARDS GENERATED OR RECEIVED BY THE USER AS A RESULT OF THE USE OF GALA SERVICES.
+
+ 
+
+11. INDEMNIFICATION
+
+ 
+
+Unless prohibited by applicable law, the User will defend and indemnify GALA and its Affiliates against any settlement amounts approved by the User and damages and costs finally awarded against the User and its affiliates by a court of competent jurisdiction in any formal legal proceeding filed by an unaffiliated third party before a court or government tribunal (including any appellate proceeding) to the extent arising from the User’s use of GALA Services.
+
+ 
+
+12. MISCELLANEOUS.
+
+ 
+
+12.1. Assignment.
+
+ 
+
+The User will not assign or otherwise transfer the User’s rights and obligations under these Terms & Conditions, without the prior written consent of GALA, which may be unreasonably withheld. Any assignment or transfer in violation of this section will be void. At any time and without the need for User’s consent, GALA may assign any obligation, right and these Terms & Conditions. Subject to the foregoing, these Terms & Conditions will be binding upon, and inure to the benefit of the parties and their respective permitted successors and assigns. The User may not merge these Terms & Conditions with any other agreements with which GALA may be a party.
+
+ 
+
+12.2. Third-Party Communications.
+
+ 
+
+GALA  disclaims all liability for any communications directed to you from any third-party directly or indirectly in connection with the Platform that you may receive, and any actions you may take or refrain from taking as a result of such communications. User is solely responsible for assessing and verifying the identity and trustworthiness of the source and content of such communications. GALA  assumes no responsibility for verifying, and makes no representations or warranties regarding, the identity or trustworthiness of the source or content of any such communications.
+
+ 
+
+ 
+
+ 
+
+12.3. Disputes.
+
+ 
+
+Any dispute, controversy, difference or claim arising out of or relating to these Terms & Conditions or relating in any way to the User’s use of GALA sites or GALA Services, including the existence, validity, interpretation, performance, breach or termination thereof or any dispute regarding non-contractual obligations arising out of or relating to these Terms & Conditions the parties may agree to first attempt mediation before a single mediator, administered by the International Centre for Dispute Resolution under its mediation rules, to be held in any location agreed to by the parties, or Salt Lake City, Utah, USA in the English language. If the parties do not agree on mediation, the matter shall be referred to and finally resolved by arbitration before a single arbitrator to be held in Salt Lake City, Utah, USA administered by the International Centre for Dispute Resolution in accordance with International Dispute Resolution Rules. The decision of the arbitrator is final and binding on the parties, and enforceable in a court of competent jurisdiction. The prevailing party shall be entitled to costs and reasonable attorneys’ fees for the arbitration. Notwithstanding the foregoing GALA and the User agree that GALA may bring suit in any court of law to enjoin infringement or other misuse of GALA’s intellectual property rights. Any disputes that may arise beyond the scope of the arbitration provision shall be exclusively subject to the State or Federal Courts located in Salt Lake City, Utah, USA. The User and GALA consent to personal jurisdiction in those courts. CLASS ACTION WAIVER: TO THE EXTENT PERMISSIBLE BY LAW, ALL CLAIMS MUST BE BROUGHT IN A PARTY’S INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, COLLECTIVE ACTION, OR REPRESENTATIVE PROCEEDING (COLLECTIVELY “CLASS ACTION WAIVER”). THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON’S CLAIMS OR ENGAGE IN ANY CLASS ARBITRATION. USER ACKNOWLEDGES THAT, BY AGREEING TO THESE TERMS, EACH PARTY WAIVES THE RIGHT TO A TRIAL BY JURY AND THE RIGHT TO PARTICIPATE IN A CLASS ACTION.
+
+ 
+
+12.4. Entire Agreement.
+
+ 
+
+These Terms & Conditions sets out all the terms agreed between the parties and supersedes all other agreements between the parties relating to its subject matter. In entering into these Terms & Conditions, neither party has relied on, and neither party will have any right or remedy based on, any statement, representation or warranty (whether made negligently or innocently), except those expressly set out in these Terms & Conditions. The terms may be updated on GALA sites.
+
+ 
+
+12.5. Force Majeure.
+
+ 
+
+GALA and its affiliates will not be liable for any failure or delay in performance of obligation under these Terms & Conditions where the failures or delay results from any cause beyond reasonable control, including, but not limited to, acts of God, labor disputes or other industrial disturbances, electrical or power outages, utilities or other telecommunications failures, earthquake, storms or other elements of nature, blockages, embargoes, riots, acts or orders of government, acts of terrorism, or war. Force Majeure events include, but are not limited to, upgrades to the validation rules of a given blockchain (e.g., a “hard fork” or “soft fork”).
+
+ 
+
+12.6. Governing Law.
+
+ 
+
+Any claim or dispute between the User and GALA arising out of or relating to the User’s use of GALA sites, GALA Services, or these Terms & Conditions, in whole or in part, shall be governed by the laws of the State of Wyoming, USA without respect to its conflict of laws provisions. The 1980 United Nations Conventions on Contracts for the International Sale of Goods does not govern these Terms & Conditions.
+
+ 
+
+12.7. Language.
+
+ 
+
+All communications and notices made or given pursuant to these Terms & Conditions must be in the English language. If we provide a translation of the English language version of these Terms & Conditions, the English language version will control if there is any conflict.
+
+ 
+
+12.8. Notices to the User and GALA.
+
+ 
+
+GALA may provide any notice to the User under these Terms & Conditions by: (i) posting a notice on GALA Site; or (ii) sending a message to the email address associated with the User’s account. Notices provided on GALA Site will be effective upon posting and notices provided by email will be effective when the email is sent. It is the User’s responsibility to keep the User’s email address current. To give GALA notice under these Terms & Conditions, the User must contact GALA by support@gala.film GALA may update the address for notices by posting on the GALA Site.
+
+ 
+
+12.9. Severability.
+
+ 
+
+If any portion of these Terms & Conditions is held to be invalid or unenforceable, the remaining portions will remain in full force and effect.
